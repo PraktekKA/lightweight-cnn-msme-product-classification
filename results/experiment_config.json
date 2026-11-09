@@ -1,0 +1,29 @@
+{
+  "kelas": [
+    "Casual Shoes",
+    "Handbags",
+    "Heels",
+    "Kurtas",
+    "Shirts",
+    "Sports Shoes",
+    "Sunglasses",
+    "Tops",
+    "Tshirts",
+    "Watches"
+  ],
+  "split_seed": 42,
+  "seeds": [
+    42,
+    123,
+    2026
+  ],
+  "epoch_maks": 15,
+  "batch": 32,
+  "lr": 0.001,
+  "optimizer": "Adam",
+  "gpu": "Tesla T4",
+  "cpu": "Model name:                              Intel(R) Xeon(R) CPU @ 2.00GHz",
+  "cpu_threads": 2,
+  "torch": "2.14.1+cu130",
+  "python": "3.13.16"
+}

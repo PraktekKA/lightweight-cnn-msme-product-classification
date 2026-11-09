@@ -1,0 +1,10 @@
+Seed,Model_A,Model_B,A_benar_B_salah,A_salah_B_benar,p_value,p_Holm,Signifikan (0.05)
+42,MobileNetV3-Small,EfficientNet-B0,20,18,0.8714,1.0,False
+42,MobileNetV3-Small,ShuffleNetV2,19,22,0.7552,1.0,False
+42,EfficientNet-B0,ShuffleNetV2,18,23,0.5327,1.0,False
+123,MobileNetV3-Small,EfficientNet-B0,11,12,1.0,1.0,False
+123,MobileNetV3-Small,ShuffleNetV2,16,22,0.4177,1.0,False
+123,EfficientNet-B0,ShuffleNetV2,15,20,0.4996,1.0,False
+2026,MobileNetV3-Small,EfficientNet-B0,14,27,0.0596,0.5363,False
+2026,MobileNetV3-Small,ShuffleNetV2,20,27,0.3817,1.0,False
+2026,EfficientNet-B0,ShuffleNetV2,20,14,0.3915,1.0,False

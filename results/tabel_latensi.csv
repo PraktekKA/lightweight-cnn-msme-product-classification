@@ -1,0 +1,13 @@
+Model,Perangkat,Mode,Mean_ms,SD_ms,Median_ms
+MobileNetV3-Small,GPU T4,model saja,5.38,0.91,5.1
+MobileNetV3-Small,GPU T4,end-to-end,14.9,12.3,8.44
+MobileNetV3-Small,CPU (2 vCPU),model saja,27.17,63.99,13.46
+MobileNetV3-Small,CPU (2 vCPU),end-to-end,16.72,3.33,15.82
+EfficientNet-B0,GPU T4,model saja,8.89,1.24,8.52
+EfficientNet-B0,GPU T4,end-to-end,11.44,2.0,10.95
+EfficientNet-B0,CPU (2 vCPU),model saja,70.96,103.72,40.96
+EfficientNet-B0,CPU (2 vCPU),end-to-end,47.7,6.65,45.62
+ShuffleNetV2,GPU T4,model saja,6.34,0.83,6.16
+ShuffleNetV2,GPU T4,end-to-end,9.78,1.56,9.38
+ShuffleNetV2,CPU (2 vCPU),model saja,45.45,65.69,26.63
+ShuffleNetV2,CPU (2 vCPU),end-to-end,31.27,4.58,29.88

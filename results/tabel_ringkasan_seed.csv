@@ -1,0 +1,7 @@
+Model,Augmentasi,Accuracy mean,Accuracy std,Precision mean,Precision std,Recall mean,Recall std,F1 mean,F1 std
+EfficientNet-B0,Tidak,94.22,0.68,94.48,0.66,94.22,0.68,94.18,0.68
+EfficientNet-B0,Ya,92.72,0.67,92.86,0.78,92.72,0.67,92.63,0.73
+MobileNetV3-Small,Tidak,92.17,2.52,92.54,2.12,92.17,2.52,92.16,2.5
+MobileNetV3-Small,Ya,92.06,0.79,92.17,0.72,92.06,0.79,92.04,0.72
+ShuffleNetV2,Tidak,92.61,0.19,93.11,0.3,92.61,0.19,92.52,0.13
+ShuffleNetV2,Ya,92.94,0.68,93.31,0.63,92.94,0.68,92.84,0.68

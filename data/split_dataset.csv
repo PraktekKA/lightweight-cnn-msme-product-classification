@@ -1,0 +1,4001 @@
+id,articleType,label,subset
+58269,Handbags,1,train
+4843,Tshirts,8,train
+54706,Kurtas,3,train
+3660,Sports Shoes,5,train
+12254,Shirts,4,train
+21224,Tshirts,8,train
+3792,Tshirts,8,train
+16874,Sunglasses,6,train
+10598,Shirts,4,train
+59222,Watches,9,train
+4523,Sports Shoes,5,train
+4046,Sports Shoes,5,train
+18258,Kurtas,3,train
+19609,Tops,7,train
+17563,Shirts,4,train
+17936,Tshirts,8,train
+22942,Watches,9,train
+40134,Shirts,4,train
+28209,Sunglasses,6,train
+5987,Shirts,4,train
+49674,Sunglasses,6,train
+8889,Shirts,4,train
+14627,Tops,7,train
+49592,Heels,2,train
+54679,Watches,9,train
+12789,Kurtas,3,train
+4470,Sports Shoes,5,train
+26938,Tshirts,8,train
+13060,Watches,9,train
+14433,Heels,2,train
+3364,Tshirts,8,train
+28193,Sunglasses,6,train
+7019,Tops,7,train
+3416,Tshirts,8,train
+43234,Sports Shoes,5,train
+28395,Sunglasses,6,train
+10476,Shirts,4,train
+9612,Shirts,4,train
+24259,Casual Shoes,0,train
+39569,Heels,2,train
+14577,Casual Shoes,0,train
+41299,Tops,7,train
+12292,Shirts,4,train
+27444,Tshirts,8,train
+22746,Kurtas,3,train
+10354,Tops,7,train
+46598,Heels,2,train
+43269,Kurtas,3,train
+26479,Tshirts,8,train
+7741,Sports Shoes,5,train
+38183,Sunglasses,6,train
+49661,Sunglasses,6,train
+2611,Heels,2,train
+4864,Tshirts,8,train
+29507,Watches,9,train
+28402,Sunglasses,6,train
+5038,Sports Shoes,5,train
+54177,Handbags,1,train
+48196,Sunglasses,6,train
+30663,Sunglasses,6,train
+36619,Heels,2,train
+24511,Kurtas,3,train
+22576,Shirts,4,train
+40974,Tshirts,8,train
+23225,Kurtas,3,train
+28192,Sunglasses,6,train
+59796,Tops,7,train
+22081,Kurtas,3,train
+2728,Tops,7,train
+11789,Kurtas,3,train
+25659,Watches,9,train
+55595,Shirts,4,train
+26563,Casual Shoes,0,train
+33245,Shirts,4,train
+49546,Handbags,1,train
+10790,Shirts,4,train
+15700,Heels,2,train
+35660,Casual Shoes,0,train
+29735,Handbags,1,train
+12928,Tshirts,8,train
+6448,Casual Shoes,0,train
+26872,Tops,7,train
+51686,Sunglasses,6,train
+19681,Tops,7,train
+41437,Sports Shoes,5,train
+2340,Tshirts,8,train
+5851,Handbags,1,train
+37143,Shirts,4,train
+43574,Tops,7,train
+10609,Watches,9,train
+35935,Sports Shoes,5,train
+45263,Watches,9,train
+5472,Sports Shoes,5,train
+38539,Casual Shoes,0,train
+23179,Tshirts,8,train
+4657,Sports Shoes,5,train
+10715,Tops,7,train
+30770,Kurtas,3,train
+14663,Shirts,4,train
+54570,Kurtas,3,train
+30690,Heels,2,train
+34098,Shirts,4,train
+49844,Watches,9,train
+28350,Sunglasses,6,train
+50163,Heels,2,train
+2062,Tshirts,8,train
+15569,Heels,2,train
+23862,Sports Shoes,5,train
+39301,Casual Shoes,0,train
+23717,Sunglasses,6,train
+15967,Shirts,4,train
+24942,Tops,7,train
+9332,Tops,7,train
+2154,Tshirts,8,train
+40534,Watches,9,train
+39946,Casual Shoes,0,train
+27278,Kurtas,3,train
+13168,Sports Shoes,5,train
+5931,Casual Shoes,0,train
+21532,Handbags,1,train
+29947,Watches,9,train
+13335,Tops,7,train
+5009,Tops,7,train
+39568,Heels,2,train
+8701,Sunglasses,6,train
+25584,Sports Shoes,5,train
+52076,Tshirts,8,train
+21933,Handbags,1,train
+29957,Sunglasses,6,train
+3260,Tshirts,8,train
+39222,Tops,7,train
+48184,Handbags,1,train
+46308,Watches,9,train
+33241,Shirts,4,train
+35802,Heels,2,train
+47373,Handbags,1,train
+59025,Heels,2,train
+59399,Tops,7,train
+11606,Kurtas,3,train
+19674,Tops,7,train
+8092,Sports Shoes,5,train
+17165,Shirts,4,train
+33823,Sports Shoes,5,train
+24254,Casual Shoes,0,train
+21494,Handbags,1,train
+45158,Watches,9,train
+43571,Handbags,1,train
+39161,Kurtas,3,train
+5735,Sports Shoes,5,train
+59023,Heels,2,train
+55644,Heels,2,train
+18481,Casual Shoes,0,train
+11491,Watches,9,train
+38663,Sports Shoes,5,train
+28694,Kurtas,3,train
+54662,Watches,9,train
+9420,Shirts,4,train
+29131,Sunglasses,6,train
+19260,Watches,9,train
+12665,Shirts,4,train
+49907,Watches,9,train
+21326,Sunglasses,6,train
+52072,Tshirts,8,train
+33095,Heels,2,train
+51939,Handbags,1,train
+21975,Handbags,1,train
+32188,Sports Shoes,5,train
+6551,Tshirts,8,train
+25208,Handbags,1,train
+7416,Kurtas,3,train
+23855,Casual Shoes,0,train
+33900,Watches,9,train
+41971,Tops,7,train
+54568,Kurtas,3,train
+2153,Tshirts,8,train
+45362,Heels,2,train
+27672,Handbags,1,train
+5919,Casual Shoes,0,train
+38866,Tops,7,train
+48327,Handbags,1,train
+46546,Watches,9,train
+41212,Casual Shoes,0,train
+16095,Sunglasses,6,train
+13062,Watches,9,train
+34885,Handbags,1,train
+21279,Sunglasses,6,train
+54827,Handbags,1,train
+2243,Tshirts,8,train
+12874,Casual Shoes,0,train
+44250,Handbags,1,train
+14786,Shirts,4,train
+40943,Tops,7,train
+28208,Sunglasses,6,train
+25013,Handbags,1,train
+8805,Shirts,4,train
+53431,Kurtas,3,train
+4133,Casual Shoes,0,train
+24395,Kurtas,3,train
+53651,Handbags,1,train
+10758,Casual Shoes,0,train
+23305,Kurtas,3,train
+13321,Shirts,4,train
+29738,Handbags,1,train
+8074,Sports Shoes,5,train
+40522,Watches,9,train
+11546,Kurtas,3,train
+58553,Sunglasses,6,train
+16340,Shirts,4,train
+24712,Casual Shoes,0,train
+5414,Tops,7,train
+17655,Heels,2,train
+38186,Sunglasses,6,train
+40517,Watches,9,train
+23762,Sunglasses,6,train
+42024,Sports Shoes,5,train
+45189,Watches,9,train
+5377,Sports Shoes,5,train
+11800,Kurtas,3,train
+34563,Casual Shoes,0,train
+26359,Tops,7,train
+19369,Casual Shoes,0,train
+35392,Casual Shoes,0,train
+17314,Sunglasses,6,train
+45783,Heels,2,train
+25183,Handbags,1,train
+39165,Kurtas,3,train
+43584,Tops,7,train
+31677,Shirts,4,train
+54708,Kurtas,3,train
+6897,Tops,7,train
+13915,Sports Shoes,5,train
+33425,Handbags,1,train
+47689,Handbags,1,train
+44465,Heels,2,train
+28316,Casual Shoes,0,train
+14370,Heels,2,train
+45250,Watches,9,train
+40547,Watches,9,train
+3399,Handbags,1,train
+37435,Handbags,1,train
+39363,Watches,9,train
+58545,Sunglasses,6,train
+20029,Shirts,4,train
+44232,Sports Shoes,5,train
+29099,Casual Shoes,0,train
+32178,Sports Shoes,5,train
+34457,Heels,2,train
+10194,Watches,9,train
+17940,Tshirts,8,train
+48009,Watches,9,train
+57169,Tops,7,train
+49879,Watches,9,train
+21115,Tops,7,train
+20761,Heels,2,train
+48330,Handbags,1,train
+25825,Kurtas,3,train
+19307,Sports Shoes,5,train
+35472,Heels,2,train
+26448,Sports Shoes,5,train
+6413,Casual Shoes,0,train
+19465,Shirts,4,train
+4623,Tops,7,train
+57107,Tops,7,train
+6572,Tshirts,8,train
+10810,Shirts,4,train
+25525,Tops,7,train
+52148,Tshirts,8,train
+23240,Kurtas,3,train
+47592,Heels,2,train
+51456,Tops,7,train
+58535,Sunglasses,6,train
+28439,Watches,9,train
+31209,Sports Shoes,5,train
+32194,Casual Shoes,0,train
+21926,Kurtas,3,train
+11510,Heels,2,train
+37746,Shirts,4,train
+12045,Shirts,4,train
+38462,Handbags,1,train
+25272,Handbags,1,train
+50145,Heels,2,train
+57492,Casual Shoes,0,train
+19592,Tops,7,train
+3696,Casual Shoes,0,train
+8346,Sports Shoes,5,train
+56896,Heels,2,train
+41668,Heels,2,train
+42175,Tshirts,8,train
+25151,Handbags,1,train
+49671,Sunglasses,6,train
+25612,Watches,9,train
+18299,Kurtas,3,train
+6302,Heels,2,train
+20328,Kurtas,3,train
+20152,Shirts,4,train
+59256,Watches,9,train
+56722,Casual Shoes,0,train
+8258,Sports Shoes,5,train
+32206,Kurtas,3,train
+36138,Sports Shoes,5,train
+47886,Handbags,1,train
+36787,Watches,9,train
+16110,Sunglasses,6,train
+43280,Handbags,1,train
+49600,Heels,2,train
+41752,Tshirts,8,train
+10381,Shirts,4,train
+12772,Kurtas,3,train
+56693,Kurtas,3,train
+13270,Tops,7,train
+26050,Shirts,4,train
+5353,Sports Shoes,5,train
+18716,Tops,7,train
+58690,Kurtas,3,train
+13198,Sports Shoes,5,train
+22948,Watches,9,train
+45735,Kurtas,3,train
+14641,Shirts,4,train
+19177,Shirts,4,train
+30791,Kurtas,3,train
+16853,Sunglasses,6,train
+20904,Heels,2,train
+7181,Tops,7,train
+34088,Casual Shoes,0,train
+8234,Handbags,1,train
+43179,Watches,9,train
+40163,Sunglasses,6,train
+34848,Sports Shoes,5,train
+4387,Tshirts,8,train
+1951,Sports Shoes,5,train
+10230,Handbags,1,train
+44612,Sports Shoes,5,train
+4359,Tshirts,8,train
+3310,Sports Shoes,5,train
+39996,Sunglasses,6,train
+13359,Casual Shoes,0,train
+13067,Casual Shoes,0,train
+29895,Sunglasses,6,train
+28413,Sunglasses,6,train
+7167,Shirts,4,train
+23718,Sunglasses,6,train
+30745,Kurtas,3,train
+28729,Kurtas,3,train
+21288,Sunglasses,6,train
+53622,Watches,9,train
+28710,Kurtas,3,train
+10730,Handbags,1,train
+45742,Kurtas,3,train
+10376,Tshirts,8,train
+5943,Shirts,4,train
+9974,Tshirts,8,train
+45206,Watches,9,train
+52660,Handbags,1,train
+33123,Heels,2,train
+39216,Tops,7,train
+23210,Tops,7,train
+9920,Handbags,1,train
+6497,Casual Shoes,0,train
+19941,Sports Shoes,5,train
+19612,Tshirts,8,train
+6431,Casual Shoes,0,train
+38756,Handbags,1,train
+26333,Watches,9,train
+12546,Tshirts,8,train
+31236,Tshirts,8,train
+37298,Watches,9,train
+16083,Sunglasses,6,train
+36248,Tshirts,8,train
+39560,Heels,2,train
+53586,Watches,9,train
+24361,Kurtas,3,train
+10690,Tshirts,8,train
+8433,Tops,7,train
+24069,Shirts,4,train
+11379,Tops,7,train
+22840,Casual Shoes,0,train
+14466,Heels,2,train
+3044,Tshirts,8,train
+51400,Shirts,4,train
+23222,Kurtas,3,train
+13644,Heels,2,train
+29869,Sunglasses,6,train
+9614,Shirts,4,train
+13130,Casual Shoes,0,train
+54524,Sports Shoes,5,train
+6342,Heels,2,train
+37532,Tshirts,8,train
+10126,Sports Shoes,5,train
+3303,Sports Shoes,5,train
+19059,Kurtas,3,train
+59258,Watches,9,train
+41712,Heels,2,train
+3137,Heels,2,train
+19620,Tops,7,train
+33432,Handbags,1,train
+46620,Heels,2,train
+8614,Sunglasses,6,train
+47638,Heels,2,train
+14648,Tshirts,8,train
+12545,Tshirts,8,train
+35932,Sports Shoes,5,train
+40057,Tshirts,8,train
+25198,Handbags,1,train
+11012,Tops,7,train
+7379,Casual Shoes,0,train
+5805,Tops,7,train
+31100,Shirts,4,train
+21929,Kurtas,3,train
+55785,Casual Shoes,0,train
+43233,Sports Shoes,5,train
+40569,Kurtas,3,train
+13019,Heels,2,train
+51370,Tshirts,8,train
+15086,Shirts,4,train
+9413,Sunglasses,6,train
+32368,Watches,9,train
+37070,Handbags,1,train
+35907,Handbags,1,train
+21734,Heels,2,train
+53788,Tshirts,8,train
+33541,Tops,7,train
+20760,Heels,2,train
+4136,Casual Shoes,0,train
+38451,Handbags,1,train
+53601,Watches,9,train
+59034,Heels,2,train
+9117,Sports Shoes,5,train
+17179,Shirts,4,train
+46215,Sports Shoes,5,train
+28363,Sunglasses,6,train
+49851,Watches,9,train
+49885,Watches,9,train
+3129,Tshirts,8,train
+53406,Kurtas,3,train
+20147,Shirts,4,train
+33886,Watches,9,train
+30059,Watches,9,train
+42529,Kurtas,3,train
+43292,Handbags,1,train
+14461,Heels,2,train
+30581,Sunglasses,6,train
+57241,Handbags,1,train
+2591,Tops,7,train
+16037,Shirts,4,train
+13755,Shirts,4,train
+45028,Watches,9,train
+16634,Tshirts,8,train
+30678,Sunglasses,6,train
+20830,Handbags,1,train
+31944,Sports Shoes,5,train
+51915,Handbags,1,train
+7003,Tshirts,8,train
+54513,Casual Shoes,0,train
+50331,Kurtas,3,train
+8075,Sports Shoes,5,train
+45724,Kurtas,3,train
+49657,Tops,7,train
+32318,Watches,9,train
+31859,Watches,9,train
+46557,Watches,9,train
+40415,Tops,7,train
+11406,Tshirts,8,train
+12695,Sports Shoes,5,train
+51662,Sunglasses,6,train
+47411,Handbags,1,train
+42834,Handbags,1,train
+31172,Tops,7,train
+3239,Sports Shoes,5,train
+47338,Handbags,1,train
+56410,Casual Shoes,0,train
+5478,Sports Shoes,5,train
+18405,Casual Shoes,0,train
+49666,Sunglasses,6,train
+54108,Heels,2,train
+24549,Tops,7,train
+29920,Watches,9,train
+20707,Casual Shoes,0,train
+57170,Tops,7,train
+42130,Sports Shoes,5,train
+16946,Sunglasses,6,train
+25836,Kurtas,3,train
+22692,Sports Shoes,5,train
+3045,Tshirts,8,train
+39563,Heels,2,train
+24151,Kurtas,3,train
+24380,Kurtas,3,train
+41518,Sunglasses,6,train
+39478,Kurtas,3,train
+16137,Tops,7,train
+51517,Watches,9,train
+15933,Tshirts,8,train
+21353,Sunglasses,6,train
+16778,Watches,9,train
+37141,Shirts,4,train
+6387,Sports Shoes,5,train
+54084,Tops,7,train
+12643,Tshirts,8,train
+31849,Watches,9,train
+50151,Heels,2,train
+10202,Handbags,1,train
+19789,Tshirts,8,train
+36219,Sports Shoes,5,train
+4044,Sports Shoes,5,train
+18900,Tops,7,train
+40176,Sunglasses,6,train
+19365,Casual Shoes,0,train
+16859,Sunglasses,6,train
+15544,Heels,2,train
+25216,Handbags,1,train
+59028,Heels,2,train
+13283,Shirts,4,train
+9667,Shirts,4,train
+38051,Watches,9,train
+29246,Tshirts,8,train
+25891,Tops,7,train
+31818,Watches,9,train
+2703,Tops,7,train
+11801,Kurtas,3,train
+38174,Sunglasses,6,train
+51710,Sunglasses,6,train
+29733,Handbags,1,train
+40007,Sunglasses,6,train
+44234,Sports Shoes,5,train
+12324,Shirts,4,train
+10133,Watches,9,train
+24923,Tops,7,train
+51923,Handbags,1,train
+20420,Handbags,1,train
+21330,Sunglasses,6,train
+51638,Watches,9,train
+51918,Handbags,1,train
+43194,Watches,9,train
+2495,Casual Shoes,0,train
+18173,Tops,7,train
+59916,Kurtas,3,train
+2673,Handbags,1,train
+30043,Watches,9,train
+10229,Handbags,1,train
+29741,Handbags,1,train
+5574,Sports Shoes,5,train
+24547,Tops,7,train
+45011,Watches,9,train
+42200,Tops,7,train
+43360,Sports Shoes,5,train
+23186,Shirts,4,train
+40480,Sports Shoes,5,train
+45356,Heels,2,train
+6066,Tshirts,8,train
+28174,Sunglasses,6,train
+24690,Casual Shoes,0,train
+16836,Sunglasses,6,train
+26516,Shirts,4,train
+58514,Tops,7,train
+44893,Tshirts,8,train
+14415,Heels,2,train
+3779,Tshirts,8,train
+42273,Casual Shoes,0,train
+29140,Sunglasses,6,train
+25666,Watches,9,train
+48100,Tops,7,train
+35673,Casual Shoes,0,train
+9136,Sports Shoes,5,train
+11539,Kurtas,3,train
+22728,Sports Shoes,5,train
+20799,Sports Shoes,5,train
+41840,Sports Shoes,5,train
+29456,Watches,9,train
+11778,Tshirts,8,train
+4203,Tshirts,8,train
+4720,Tshirts,8,train
+22388,Shirts,4,train
+51671,Sunglasses,6,train
+33106,Heels,2,train
+44611,Sports Shoes,5,train
+21038,Heels,2,train
+24390,Kurtas,3,train
+43874,Casual Shoes,0,train
+40935,Tops,7,train
+54651,Watches,9,train
+49673,Sunglasses,6,train
+6611,Shirts,4,train
+56655,Casual Shoes,0,train
+9156,Tops,7,train
+5500,Tshirts,8,train
+29126,Sunglasses,6,train
+40553,Watches,9,train
+20679,Casual Shoes,0,train
+57128,Shirts,4,train
+46530,Watches,9,train
+53427,Kurtas,3,train
+54661,Watches,9,train
+19029,Heels,2,train
+26646,Casual Shoes,0,train
+32232,Kurtas,3,train
+23215,Kurtas,3,train
+6543,Tshirts,8,train
+8520,Handbags,1,train
+30144,Tshirts,8,train
+7743,Tshirts,8,train
+43410,Shirts,4,train
+30072,Watches,9,train
+28203,Sunglasses,6,train
+31123,Tops,7,train
+35815,Heels,2,train
+40129,Shirts,4,train
+38040,Watches,9,train
+13077,Casual Shoes,0,train
+6320,Shirts,4,train
+20005,Tops,7,train
+25261,Handbags,1,train
+42933,Handbags,1,train
+23790,Sunglasses,6,train
+28382,Sunglasses,6,train
+8210,Casual Shoes,0,train
+48207,Sunglasses,6,train
+38212,Sunglasses,6,train
+5571,Sports Shoes,5,train
+43341,Sports Shoes,5,train
+28284,Sunglasses,6,train
+2197,Sports Shoes,5,train
+36655,Handbags,1,train
+56880,Heels,2,train
+15492,Heels,2,train
+54991,Tops,7,train
+20886,Sports Shoes,5,train
+36901,Watches,9,train
+22021,Kurtas,3,train
+32824,Heels,2,train
+14896,Handbags,1,train
+11685,Shirts,4,train
+31956,Sports Shoes,5,train
+12956,Sports Shoes,5,train
+6795,Shirts,4,train
+20146,Shirts,4,train
+42559,Kurtas,3,train
+46417,Watches,9,train
+39973,Casual Shoes,0,train
+9003,Handbags,1,train
+10271,Heels,2,train
+2680,Tshirts,8,train
+8671,Sunglasses,6,train
+20399,Handbags,1,train
+28172,Sunglasses,6,train
+7154,Tops,7,train
+25849,Kurtas,3,train
+22189,Casual Shoes,0,train
+54017,Handbags,1,train
+59054,Heels,2,train
+34075,Heels,2,train
+45748,Kurtas,3,train
+12711,Sports Shoes,5,train
+18555,Heels,2,train
+54647,Watches,9,train
+3607,Casual Shoes,0,train
+21171,Tops,7,train
+28834,Kurtas,3,train
+5874,Handbags,1,train
+22384,Shirts,4,train
+27931,Shirts,4,train
+8789,Shirts,4,train
+56969,Heels,2,train
+8869,Shirts,4,train
+47761,Handbags,1,train
+7447,Tshirts,8,train
+29322,Shirts,4,train
+6597,Tops,7,train
+5583,Sports Shoes,5,train
+22039,Kurtas,3,train
+11024,Tshirts,8,train
+6370,Casual Shoes,0,train
+47305,Handbags,1,train
+5352,Sports Shoes,5,train
+51729,Sunglasses,6,train
+4471,Sports Shoes,5,train
+8969,Sports Shoes,5,train
+34654,Sports Shoes,5,train
+30648,Tshirts,8,train
+12311,Shirts,4,train
+43236,Casual Shoes,0,train
+58932,Handbags,1,train
+31826,Watches,9,train
+9256,Shirts,4,train
+33039,Kurtas,3,train
+57299,Heels,2,train
+28586,Watches,9,train
+37307,Watches,9,train
+31783,Tops,7,train
+19038,Heels,2,train
+22748,Kurtas,3,train
+14555,Casual Shoes,0,train
+45000,Watches,9,train
+37158,Tops,7,train
+2663,Handbags,1,train
+38803,Tshirts,8,train
+10289,Heels,2,train
+15415,Sports Shoes,5,train
+56952,Heels,2,train
+28941,Kurtas,3,train
+59238,Watches,9,train
+19110,Tshirts,8,train
+21934,Handbags,1,train
+27868,Shirts,4,train
+59187,Heels,2,train
+14437,Heels,2,train
+39625,Casual Shoes,0,train
+22398,Shirts,4,train
+15238,Casual Shoes,0,train
+10255,Shirts,4,train
+11992,Tshirts,8,train
+28356,Sunglasses,6,train
+35696,Casual Shoes,0,train
+8636,Sunglasses,6,train
+57480,Casual Shoes,0,train
+38185,Sunglasses,6,train
+29988,Watches,9,train
+49559,Handbags,1,train
+50194,Tshirts,8,train
+23280,Watches,9,train
+57298,Heels,2,train
+17422,Watches,9,train
+19400,Tshirts,8,train
+22943,Watches,9,train
+1785,Sports Shoes,5,train
+51410,Shirts,4,train
+13033,Heels,2,train
+53149,Heels,2,train
+4132,Casual Shoes,0,train
+56932,Heels,2,train
+44990,Watches,9,train
+37955,Handbags,1,train
+13484,Casual Shoes,0,train
+11679,Shirts,4,train
+25288,Handbags,1,train
+13429,Tshirts,8,train
+8475,Tops,7,train
+22289,Heels,2,train
+58661,Kurtas,3,train
+47606,Heels,2,train
+34589,Tops,7,train
+39895,Sports Shoes,5,train
+17309,Sunglasses,6,train
+9154,Tops,7,train
+34100,Tshirts,8,train
+24561,Shirts,4,train
+11550,Kurtas,3,train
+19077,Kurtas,3,train
+31611,Shirts,4,train
+10674,Tops,7,train
+41791,Tops,7,train
+4267,Sports Shoes,5,train
+22330,Tshirts,8,train
+11426,Shirts,4,train
+6015,Shirts,4,train
+46335,Sports Shoes,5,train
+15000,Tshirts,8,train
+21526,Handbags,1,train
+50751,Casual Shoes,0,train
+33153,Tops,7,train
+8681,Sunglasses,6,train
+38665,Sports Shoes,5,train
+11693,Shirts,4,train
+33846,Casual Shoes,0,train
+3520,Tshirts,8,train
+4618,Tops,7,train
+41739,Heels,2,train
+28957,Kurtas,3,train
+23053,Tops,7,train
+16954,Sunglasses,6,train
+5911,Casual Shoes,0,train
+17589,Sunglasses,6,train
+52659,Handbags,1,train
+16884,Sunglasses,6,train
+51716,Sunglasses,6,train
+9616,Shirts,4,train
+21522,Handbags,1,train
+40671,Shirts,4,train
+51424,Shirts,4,train
+41661,Shirts,4,train
+28689,Kurtas,3,train
+42230,Tops,7,train
+51545,Watches,9,train
+42233,Tops,7,train
+31844,Watches,9,train
+38159,Sunglasses,6,train
+25661,Watches,9,train
+30842,Kurtas,3,train
+46434,Watches,9,train
+41036,Watches,9,train
+31688,Sports Shoes,5,train
+6789,Shirts,4,train
+48005,Watches,9,train
+5153,Tshirts,8,train
+5765,Tops,7,train
+59374,Kurtas,3,train
+45155,Watches,9,train
+45197,Watches,9,train
+22165,Casual Shoes,0,train
+17768,Casual Shoes,0,train
+20393,Handbags,1,train
+26612,Sports Shoes,5,train
+50237,Handbags,1,train
+19992,Tshirts,8,train
+39028,Watches,9,train
+31102,Tshirts,8,train
+23769,Sunglasses,6,train
+22164,Casual Shoes,0,train
+47294,Handbags,1,train
+56875,Heels,2,train
+36501,Kurtas,3,train
+20868,Casual Shoes,0,train
+5415,Tshirts,8,train
+26088,Shirts,4,train
+10220,Handbags,1,train
+44406,Sports Shoes,5,train
+22367,Tshirts,8,train
+54040,Handbags,1,train
+54659,Watches,9,train
+26725,Tshirts,8,train
+10465,Tshirts,8,train
+54663,Watches,9,train
+25232,Handbags,1,train
+9783,Tshirts,8,train
+30889,Kurtas,3,train
+3653,Casual Shoes,0,train
+5834,Tshirts,8,train
+38175,Sunglasses,6,train
+31465,Tshirts,8,train
+28565,Tshirts,8,train
+56865,Heels,2,train
+54641,Watches,9,train
+30013,Watches,9,train
+18478,Casual Shoes,0,train
+12080,Kurtas,3,train
+24391,Kurtas,3,train
+45949,Tops,7,train
+44684,Tops,7,train
+48212,Sunglasses,6,train
+43485,Shirts,4,train
+43181,Watches,9,train
+37969,Heels,2,train
+39638,Sports Shoes,5,train
+2162,Shirts,4,train
+15475,Tshirts,8,train
+10364,Tshirts,8,train
+23787,Sunglasses,6,train
+41588,Shirts,4,train
+49352,Casual Shoes,0,train
+45800,Heels,2,train
+21727,Sports Shoes,5,train
+51691,Sunglasses,6,train
+5097,Tshirts,8,train
+8664,Sunglasses,6,train
+12430,Casual Shoes,0,train
+27728,Handbags,1,train
+59050,Heels,2,train
+40990,Tops,7,train
+29919,Watches,9,train
+50705,Tops,7,train
+56336,Watches,9,train
+45972,Tops,7,train
+24924,Tops,7,train
+43619,Tops,7,train
+8206,Tshirts,8,train
+34790,Casual Shoes,0,train
+38181,Sunglasses,6,train
+20154,Shirts,4,train
+29420,Watches,9,train
+47434,Handbags,1,train
+7714,Casual Shoes,0,train
+24157,Kurtas,3,train
+51401,Shirts,4,train
+5446,Tshirts,8,train
+3159,Sports Shoes,5,train
+41730,Heels,2,train
+23919,Casual Shoes,0,train
+6493,Tshirts,8,train
+40254,Shirts,4,train
+12371,Shirts,4,train
+53839,Kurtas,3,train
+47391,Handbags,1,train
+9121,Sports Shoes,5,train
+37409,Handbags,1,train
+38524,Casual Shoes,0,train
+9203,Sports Shoes,5,train
+39067,Tshirts,8,train
+20119,Tops,7,train
+1787,Sports Shoes,5,train
+56928,Heels,2,train
+56816,Shirts,4,train
+4455,Casual Shoes,0,train
+31554,Casual Shoes,0,train
+35386,Casual Shoes,0,train
+52157,Tops,7,train
+43333,Handbags,1,train
+2700,Tops,7,train
+41734,Heels,2,train
+51722,Sunglasses,6,train
+17959,Casual Shoes,0,train
+17585,Sunglasses,6,train
+27280,Kurtas,3,train
+18734,Tops,7,train
+50431,Handbags,1,train
+51726,Sunglasses,6,train
+38974,Shirts,4,train
+19825,Shirts,4,train
+3564,Casual Shoes,0,train
+24507,Kurtas,3,train
+44814,Tops,7,train
+35677,Casual Shoes,0,train
+20247,Tops,7,train
+29829,Shirts,4,train
+28420,Sunglasses,6,train
+54739,Casual Shoes,0,train
+26551,Casual Shoes,0,train
+18412,Sports Shoes,5,train
+12387,Shirts,4,train
+42839,Handbags,1,train
+28403,Sunglasses,6,train
+9481,Shirts,4,train
+30782,Kurtas,3,train
+23679,Casual Shoes,0,train
+12054,Tshirts,8,train
+33090,Heels,2,train
+55649,Heels,2,train
+42565,Tops,7,train
+29135,Sunglasses,6,train
+16042,Shirts,4,train
+22983,Sports Shoes,5,train
+30565,Sunglasses,6,train
+38169,Sunglasses,6,train
+5476,Sports Shoes,5,train
+28962,Kurtas,3,train
+54812,Handbags,1,train
+58372,Tshirts,8,train
+39629,Casual Shoes,0,train
+15983,Shirts,4,train
+33171,Tops,7,train
+22237,Casual Shoes,0,train
+35341,Heels,2,train
+9598,Shirts,4,train
+14345,Sports Shoes,5,train
+19180,Shirts,4,train
+31945,Casual Shoes,0,train
+5920,Casual Shoes,0,train
+12954,Sports Shoes,5,train
+20716,Casual Shoes,0,train
+17262,Tshirts,8,train
+23314,Kurtas,3,train
+14908,Sunglasses,6,train
+10698,Watches,9,train
+14543,Kurtas,3,train
+44252,Handbags,1,train
+57126,Tops,7,train
+26385,Tshirts,8,train
+43349,Sports Shoes,5,train
+8695,Sunglasses,6,train
+53997,Handbags,1,train
+13648,Sports Shoes,5,train
+24487,Watches,9,train
+34580,Tops,7,train
+7426,Tops,7,train
+15718,Sports Shoes,5,train
+43001,Sports Shoes,5,train
+6985,Tshirts,8,train
+1636,Sports Shoes,5,train
+17601,Sunglasses,6,train
+37330,Watches,9,train
+13403,Shirts,4,train
+23724,Sunglasses,6,train
+8643,Sunglasses,6,train
+20386,Handbags,1,train
+27871,Shirts,4,train
+37418,Handbags,1,train
+12304,Shirts,4,train
+6644,Sports Shoes,5,train
+3788,Tshirts,8,train
+20265,Heels,2,train
+38228,Sunglasses,6,train
+53921,Handbags,1,train
+39635,Sports Shoes,5,train
+8690,Sunglasses,6,train
+15491,Heels,2,train
+24269,Tshirts,8,train
+50201,Sunglasses,6,train
+53735,Casual Shoes,0,train
+17844,Sports Shoes,5,train
+8909,Casual Shoes,0,train
+43000,Sports Shoes,5,train
+34374,Tshirts,8,train
+15714,Sports Shoes,5,train
+11616,Kurtas,3,train
+15565,Heels,2,train
+58173,Handbags,1,train
+24373,Kurtas,3,train
+17497,Tshirts,8,train
+28844,Tshirts,8,train
+54409,Handbags,1,train
+27090,Kurtas,3,train
+45843,Kurtas,3,train
+28955,Kurtas,3,train
+14425,Heels,2,train
+20602,Handbags,1,train
+56909,Heels,2,train
+41703,Heels,2,train
+18291,Kurtas,3,train
+23216,Kurtas,3,train
+12183,Shirts,4,train
+30780,Kurtas,3,train
+17426,Watches,9,train
+58191,Handbags,1,train
+38171,Sunglasses,6,train
+30330,Tshirts,8,train
+53941,Handbags,1,train
+4343,Casual Shoes,0,train
+4526,Sports Shoes,5,train
+29136,Sunglasses,6,train
+1784,Sports Shoes,5,train
+9659,Shirts,4,train
+49542,Handbags,1,train
+15147,Shirts,4,train
+26643,Casual Shoes,0,train
+7784,Tshirts,8,train
+53686,Handbags,1,train
+10499,Tshirts,8,train
+23756,Sunglasses,6,train
+39947,Casual Shoes,0,train
+26178,Heels,2,train
+35176,Handbags,1,train
+58809,Shirts,4,train
+25162,Handbags,1,train
+19104,Kurtas,3,train
+6782,Shirts,4,train
+10266,Casual Shoes,0,train
+39231,Tops,7,train
+9996,Tops,7,train
+54698,Kurtas,3,train
+12070,Kurtas,3,train
+13232,Tshirts,8,train
+17120,Handbags,1,train
+45259,Watches,9,train
+36995,Handbags,1,train
+27521,Heels,2,train
+21287,Sunglasses,6,train
+59928,Kurtas,3,train
+21996,Handbags,1,train
+45195,Watches,9,train
+10109,Watches,9,train
+53457,Heels,2,train
+45146,Watches,9,train
+13900,Sports Shoes,5,train
+47412,Handbags,1,train
+25418,Sports Shoes,5,train
+9208,Casual Shoes,0,train
+44834,Tshirts,8,train
+47246,Casual Shoes,0,train
+29157,Tshirts,8,train
+33707,Casual Shoes,0,train
+5390,Sports Shoes,5,train
+47558,Heels,2,train
+54539,Sports Shoes,5,train
+39621,Heels,2,train
+57942,Casual Shoes,0,train
+11507,Heels,2,train
+47350,Handbags,1,train
+2831,Casual Shoes,0,train
+4019,Casual Shoes,0,train
+13727,Sports Shoes,5,train
+19593,Tops,7,train
+17596,Sunglasses,6,train
+20670,Tshirts,8,train
+52118,Tops,7,train
+51537,Watches,9,train
+47351,Handbags,1,train
+13323,Shirts,4,train
+55642,Heels,2,train
+25425,Handbags,1,train
+40528,Watches,9,train
+47615,Heels,2,train
+52766,Handbags,1,train
+38329,Tops,7,train
+25258,Handbags,1,train
+9118,Sports Shoes,5,train
+11136,Watches,9,train
+48503,Tops,7,train
+59918,Kurtas,3,train
+28190,Sunglasses,6,train
+34847,Sports Shoes,5,train
+5884,Tshirts,8,train
+39183,Kurtas,3,train
+21047,Heels,2,train
+17323,Sunglasses,6,train
+55783,Casual Shoes,0,train
+41775,Tops,7,train
+26917,Tops,7,train
+38201,Sunglasses,6,train
+49061,Casual Shoes,0,train
+4896,Tops,7,train
+10806,Shirts,4,train
+4917,Tops,7,train
+26116,Shirts,4,train
+39167,Kurtas,3,train
+45866,Casual Shoes,0,train
+12003,Shirts,4,train
+23752,Sunglasses,6,train
+33876,Watches,9,train
+11481,Tops,7,train
+6609,Tops,7,train
+15258,Casual Shoes,0,train
+33041,Kurtas,3,train
+5706,Casual Shoes,0,train
+23269,Watches,9,train
+22981,Sports Shoes,5,train
+41737,Heels,2,train
+41660,Shirts,4,train
+16107,Sunglasses,6,train
+33304,Tshirts,8,train
+31684,Sports Shoes,5,train
+25276,Handbags,1,train
+17714,Shirts,4,train
+33125,Heels,2,train
+25442,Sports Shoes,5,train
+31122,Tops,7,train
+49827,Heels,2,train
+16399,Shirts,4,train
+56878,Heels,2,train
+4319,Tshirts,8,train
+11493,Heels,2,train
+53654,Handbags,1,train
+27060,Handbags,1,train
+25565,Sports Shoes,5,train
+17434,Watches,9,train
+9398,Sports Shoes,5,train
+10627,Casual Shoes,0,train
+17605,Sunglasses,6,train
+47794,Handbags,1,train
+31586,Tshirts,8,train
+11557,Kurtas,3,train
+45127,Watches,9,train
+24158,Kurtas,3,train
+6784,Shirts,4,train
+49622,Heels,2,train
+58738,Tops,7,train
+56714,Kurtas,3,train
+31911,Handbags,1,train
+49679,Sunglasses,6,train
+46459,Watches,9,train
+26614,Sports Shoes,5,train
+46801,Sports Shoes,5,train
+45885,Watches,9,train
+22003,Handbags,1,train
+19089,Kurtas,3,train
+30570,Sunglasses,6,train
+21753,Handbags,1,train
+9333,Tops,7,train
+29390,Shirts,4,train
+28310,Sunglasses,6,train
+8181,Shirts,4,train
+29125,Sunglasses,6,train
+7267,Casual Shoes,0,train
+47295,Handbags,1,train
+6643,Sports Shoes,5,train
+40267,Tshirts,8,train
+6389,Sports Shoes,5,train
+48195,Sunglasses,6,train
+35818,Casual Shoes,0,train
+40629,Kurtas,3,train
+9072,Shirts,4,train
+20907,Heels,2,train
+47410,Handbags,1,train
+15844,Kurtas,3,train
+13405,Shirts,4,train
+7847,Tshirts,8,train
+29943,Watches,9,train
+24534,Tops,7,train
+27869,Shirts,4,train
+53679,Handbags,1,train
+33935,Tshirts,8,train
+7600,Sports Shoes,5,train
+28287,Sunglasses,6,train
+28753,Kurtas,3,train
+1612,Tshirts,8,train
+11804,Kurtas,3,train
+44768,Casual Shoes,0,train
+11485,Watches,9,train
+36447,Sports Shoes,5,train
+35440,Shirts,4,train
+54110,Heels,2,train
+47343,Handbags,1,train
+43570,Handbags,1,train
+24589,Kurtas,3,train
+45296,Watches,9,train
+49676,Sunglasses,6,train
+28279,Sunglasses,6,train
+11508,Heels,2,train
+37241,Casual Shoes,0,train
+31308,Kurtas,3,train
+32852,Heels,2,train
+27392,Tshirts,8,train
+14877,Handbags,1,train
+17411,Sports Shoes,5,train
+47596,Heels,2,train
+28207,Sunglasses,6,train
+18899,Tops,7,train
+2101,Shirts,4,train
+42207,Tops,7,train
+2365,Handbags,1,train
+28343,Sunglasses,6,train
+9210,Sports Shoes,5,train
+27690,Handbags,1,train
+16888,Sunglasses,6,train
+44278,Handbags,1,train
+47382,Handbags,1,train
+53999,Handbags,1,train
+38674,Sports Shoes,5,train
+3967,Tops,7,train
+26263,Tshirts,8,train
+31953,Sports Shoes,5,train
+8461,Tops,7,train
+33929,Watches,9,train
+42989,Sports Shoes,5,train
+42131,Sports Shoes,5,train
+28652,Sports Shoes,5,train
+12367,Shirts,4,train
+5726,Sports Shoes,5,train
+13080,Casual Shoes,0,train
+24156,Kurtas,3,train
+41680,Heels,2,train
+10110,Sports Shoes,5,train
+17602,Sunglasses,6,train
+33249,Shirts,4,train
+7355,Tshirts,8,train
+29137,Sunglasses,6,train
+23745,Sunglasses,6,train
+43953,Heels,2,train
+47347,Handbags,1,train
+36036,Handbags,1,train
+8190,Shirts,4,train
+22275,Heels,2,train
+37774,Shirts,4,train
+51430,Shirts,4,train
+25295,Handbags,1,train
+54388,Handbags,1,train
+43661,Tops,7,train
+42750,Heels,2,train
+30788,Kurtas,3,train
+4715,Watches,9,train
+46102,Casual Shoes,0,train
+26431,Handbags,1,train
+4547,Sports Shoes,5,train
+32218,Kurtas,3,train
+28308,Sunglasses,6,train
+51566,Watches,9,train
+22356,Shirts,4,train
+24509,Kurtas,3,train
+34382,Tshirts,8,train
+28656,Sports Shoes,5,train
+22819,Casual Shoes,0,train
+31942,Casual Shoes,0,train
+14884,Handbags,1,train
+54668,Watches,9,train
+35671,Casual Shoes,0,train
+27532,Shirts,4,train
+21306,Sunglasses,6,train
+4642,Sports Shoes,5,train
+29480,Watches,9,train
+24424,Sports Shoes,5,train
+5975,Shirts,4,train
+12471,Shirts,4,train
+15727,Sports Shoes,5,train
+28394,Sunglasses,6,train
+26367,Shirts,4,train
+53981,Handbags,1,train
+9984,Tshirts,8,train
+23761,Sunglasses,6,train
+39582,Heels,2,train
+6996,Tshirts,8,train
+48510,Tops,7,train
+28408,Sunglasses,6,train
+14462,Heels,2,train
+20118,Kurtas,3,train
+4908,Tops,7,train
+12803,Tshirts,8,train
+28380,Sunglasses,6,train
+26649,Sports Shoes,5,train
+41035,Watches,9,train
+12101,Kurtas,3,train
+42275,Casual Shoes,0,train
+54386,Handbags,1,train
+51488,Shirts,4,train
+41653,Shirts,4,train
+51654,Watches,9,train
+30839,Kurtas,3,train
+29951,Watches,9,train
+16091,Sunglasses,6,train
+27078,Heels,2,train
+57261,Handbags,1,train
+26246,Tshirts,8,train
+24855,Tops,7,train
+19026,Heels,2,train
+22828,Casual Shoes,0,train
+22713,Sports Shoes,5,train
+3658,Casual Shoes,0,train
+54585,Kurtas,3,train
+51459,Tops,7,train
+59382,Kurtas,3,train
+42141,Sports Shoes,5,train
+37780,Shirts,4,train
+36751,Tops,7,train
+5122,Tshirts,8,train
+10705,Watches,9,train
+34593,Tops,7,train
+21416,Tops,7,train
+8071,Sports Shoes,5,train
+38755,Handbags,1,train
+40423,Tops,7,train
+3649,Casual Shoes,0,train
+44770,Casual Shoes,0,train
+42274,Casual Shoes,0,train
+28871,Kurtas,3,train
+46451,Watches,9,train
+51955,Handbags,1,train
+34852,Casual Shoes,0,train
+44809,Tops,7,train
+56973,Heels,2,train
+9480,Shirts,4,train
+19699,Shirts,4,train
+4445,Sports Shoes,5,train
+36731,Tops,7,train
+40658,Kurtas,3,train
+26439,Handbags,1,train
+17603,Sunglasses,6,train
+34314,Tshirts,8,train
+5350,Sports Shoes,5,train
+21355,Sunglasses,6,train
+11439,Tops,7,train
+26471,Tshirts,8,train
+4891,Tshirts,8,train
+7362,Tops,7,train
+1598,Handbags,1,train
+11442,Tops,7,train
+9129,Sports Shoes,5,train
+57111,Tops,7,train
+22167,Casual Shoes,0,train
+26914,Tops,7,train
+13978,Casual Shoes,0,train
+3729,Tshirts,8,train
+15494,Casual Shoes,0,train
+28717,Kurtas,3,train
+46566,Watches,9,train
+8304,Sports Shoes,5,train
+30692,Heels,2,train
+13867,Shirts,4,train
+4569,Sports Shoes,5,train
+41688,Heels,2,train
+20963,Handbags,1,train
+38208,Sunglasses,6,train
+50146,Heels,2,train
+43270,Kurtas,3,train
+14053,Shirts,4,train
+4562,Sports Shoes,5,train
+13949,Handbags,1,train
+34872,Handbags,1,train
+11355,Tops,7,train
+42936,Handbags,1,train
+47289,Handbags,1,train
+46454,Watches,9,train
+32336,Watches,9,train
+46611,Heels,2,train
+23505,Sports Shoes,5,train
+42527,Kurtas,3,train
+3387,Handbags,1,train
+33845,Casual Shoes,0,train
+56940,Heels,2,train
+8759,Shirts,4,train
+47015,Kurtas,3,train
+9556,Tshirts,8,train
+12066,Kurtas,3,train
+39584,Heels,2,train
+32971,Tshirts,8,train
+7593,Sports Shoes,5,train
+54066,Casual Shoes,0,train
+42686,Kurtas,3,train
+48021,Watches,9,train
+21175,Sports Shoes,5,train
+14312,Tshirts,8,train
+9634,Shirts,4,train
+31951,Sports Shoes,5,train
+13903,Casual Shoes,0,train
+34163,Tops,7,train
+37256,Casual Shoes,0,train
+8677,Sunglasses,6,train
+39780,Shirts,4,train
+27887,Shirts,4,train
+28421,Sunglasses,6,train
+26905,Tops,7,train
+4484,Sports Shoes,5,train
+25617,Watches,9,train
+21166,Tops,7,train
+33206,Tshirts,8,train
+34817,Sports Shoes,5,train
+28550,Tshirts,8,train
+17229,Sunglasses,6,train
+54627,Watches,9,train
+41827,Sports Shoes,5,train
+46018,Kurtas,3,train
+58155,Handbags,1,train
+25564,Sports Shoes,5,train
+7947,Tshirts,8,train
+46090,Sports Shoes,5,train
+16191,Tshirts,8,train
+47026,Kurtas,3,train
+8798,Shirts,4,train
+21079,Casual Shoes,0,train
+15101,Kurtas,3,train
+28289,Sunglasses,6,train
+42649,Kurtas,3,train
+21347,Sunglasses,6,train
+2343,Tshirts,8,train
+49884,Watches,9,train
+7710,Casual Shoes,0,train
+45216,Watches,9,train
+22307,Heels,2,train
+17963,Casual Shoes,0,train
+10811,Shirts,4,train
+18419,Sports Shoes,5,train
+14334,Sports Shoes,5,train
+21111,Tops,7,train
+21913,Kurtas,3,train
+2899,Heels,2,train
+29509,Watches,9,train
+46825,Casual Shoes,0,train
+9519,Shirts,4,train
+27148,Shirts,4,train
+21964,Handbags,1,train
+51663,Sunglasses,6,train
+45145,Watches,9,train
+41405,Tops,7,train
+13548,Heels,2,train
+38290,Tops,7,train
+19055,Kurtas,3,train
+39906,Sports Shoes,5,train
+22016,Kurtas,3,train
+23627,Tshirts,8,train
+2877,Heels,2,train
+16483,Shirts,4,train
+20766,Heels,2,train
+48213,Sunglasses,6,train
+58196,Handbags,1,train
+13641,Heels,2,train
+32924,Tshirts,8,train
+5147,Shirts,4,train
+11069,Shirts,4,train
+7584,Sports Shoes,5,train
+38204,Sunglasses,6,train
+17850,Tops,7,train
+33967,Shirts,4,train
+31792,Tops,7,train
+5406,Sports Shoes,5,train
+39452,Kurtas,3,train
+56682,Watches,9,train
+22779,Kurtas,3,train
+59142,Heels,2,train
+5171,Tops,7,train
+42858,Handbags,1,train
+26220,Handbags,1,train
+56949,Heels,2,train
+23935,Casual Shoes,0,train
+8085,Sports Shoes,5,train
+28635,Sports Shoes,5,train
+50164,Heels,2,train
+27038,Handbags,1,train
+39995,Sunglasses,6,train
+5582,Sports Shoes,5,train
+24236,Kurtas,3,train
+32638,Tshirts,8,train
+12376,Shirts,4,train
+33526,Heels,2,train
+7307,Tops,7,train
+27894,Shirts,4,train
+11699,Shirts,4,train
+51532,Watches,9,train
+9130,Casual Shoes,0,train
+26715,Tshirts,8,train
+23315,Kurtas,3,train
+11008,Tshirts,8,train
+32355,Watches,9,train
+30946,Tops,7,train
+11820,Casual Shoes,0,train
+17697,Casual Shoes,0,train
+19020,Heels,2,train
+33531,Casual Shoes,0,train
+16875,Sunglasses,6,train
+39589,Heels,2,train
+8689,Sunglasses,6,train
+27555,Shirts,4,train
+12897,Casual Shoes,0,train
+18881,Shirts,4,train
+40138,Tshirts,8,train
+24911,Tshirts,8,train
+44227,Sports Shoes,5,train
+38221,Sunglasses,6,train
+4256,Tshirts,8,train
+8438,Tops,7,train
+39576,Heels,2,train
+43277,Handbags,1,train
+47032,Kurtas,3,train
+27736,Handbags,1,train
+10317,Watches,9,train
+14383,Heels,2,train
+59250,Watches,9,train
+8207,Tshirts,8,train
+41473,Heels,2,train
+58931,Handbags,1,train
+45941,Tops,7,train
+32240,Kurtas,3,train
+29519,Watches,9,train
+48516,Tops,7,train
+4068,Casual Shoes,0,train
+42837,Handbags,1,train
+11084,Shirts,4,train
+20192,Tshirts,8,train
+29724,Handbags,1,train
+13382,Casual Shoes,0,train
+32191,Sports Shoes,5,train
+10185,Shirts,4,train
+33457,Handbags,1,train
+42556,Kurtas,3,train
+49606,Heels,2,train
+22542,Sports Shoes,5,train
+13039,Heels,2,train
+45955,Tops,7,train
+11471,Tops,7,train
+51724,Sunglasses,6,train
+57230,Handbags,1,train
+49327,Watches,9,train
+12074,Kurtas,3,train
+16948,Sunglasses,6,train
+43335,Sports Shoes,5,train
+3385,Handbags,1,train
+26059,Shirts,4,train
+39567,Heels,2,train
+4643,Sports Shoes,5,train
+5682,Casual Shoes,0,train
+22264,Heels,2,train
+5248,Sports Shoes,5,train
+51446,Tops,7,train
+15564,Heels,2,train
+28417,Sunglasses,6,train
+19070,Kurtas,3,train
+51690,Sunglasses,6,train
+1545,Casual Shoes,0,train
+13443,Tops,7,train
+8134,Watches,9,train
+33534,Heels,2,train
+42656,Kurtas,3,train
+38945,Tops,7,train
+38331,Tops,7,train
+13025,Heels,2,train
+31699,Kurtas,3,train
+9455,Shirts,4,train
+33393,Handbags,1,train
+24188,Casual Shoes,0,train
+43696,Tshirts,8,train
+13273,Heels,2,train
+27852,Tops,7,train
+16896,Sunglasses,6,train
+14646,Tshirts,8,train
+40551,Watches,9,train
+33169,Tops,7,train
+4437,Casual Shoes,0,train
+33092,Heels,2,train
+19784,Tshirts,8,train
+32844,Heels,2,train
+11135,Watches,9,train
+10706,Watches,9,train
+43651,Tops,7,train
+49584,Heels,2,train
+49618,Heels,2,train
+36737,Tshirts,8,train
+56986,Heels,2,train
+26629,Casual Shoes,0,train
+4901,Tops,7,train
+13044,Heels,2,train
+20757,Heels,2,train
+23289,Watches,9,train
+30798,Shirts,4,train
+26714,Tshirts,8,train
+41098,Tops,7,train
+3662,Sports Shoes,5,train
+14429,Heels,2,train
+24988,Tops,7,train
+26889,Tops,7,train
+24577,Tops,7,train
+58928,Handbags,1,train
+43380,Casual Shoes,0,train
+35916,Handbags,1,train
+46884,Casual Shoes,0,train
+2715,Tops,7,train
+51667,Sunglasses,6,train
+11627,Kurtas,3,train
+3150,Sports Shoes,5,train
+57236,Handbags,1,train
+17307,Sunglasses,6,train
+5489,Tshirts,8,train
+37483,Watches,9,train
+19034,Heels,2,train
+28157,Sunglasses,6,train
+29743,Handbags,1,train
+16105,Sunglasses,6,train
+6063,Tshirts,8,train
+22711,Sports Shoes,5,train
+26956,Tops,7,train
+4576,Sports Shoes,5,train
+12153,Kurtas,3,train
+51641,Watches,9,train
+45236,Watches,9,train
+30070,Watches,9,train
+36465,Casual Shoes,0,train
+46606,Casual Shoes,0,train
+47620,Heels,2,train
+2025,Tshirts,8,train
+19287,Watches,9,train
+45151,Watches,9,train
+14372,Heels,2,train
+13924,Sports Shoes,5,train
+43933,Heels,2,train
+25529,Shirts,4,train
+3120,Tshirts,8,train
+26374,Sports Shoes,5,train
+17453,Watches,9,train
+11951,Casual Shoes,0,train
+47361,Handbags,1,train
+20567,Handbags,1,train
+16891,Sunglasses,6,train
+30239,Casual Shoes,0,train
+7441,Tshirts,8,train
+5136,Tops,7,train
+5900,Casual Shoes,0,train
+38314,Handbags,1,train
+25826,Kurtas,3,train
+5777,Tops,7,train
+19635,Tops,7,train
+21737,Casual Shoes,0,train
+20148,Shirts,4,train
+26621,Sports Shoes,5,train
+38166,Sunglasses,6,train
+21880,Kurtas,3,train
+45264,Watches,9,train
+8672,Sunglasses,6,train
+49513,Watches,9,train
+18618,Tshirts,8,train
+24482,Casual Shoes,0,train
+17218,Sunglasses,6,train
+59874,Shirts,4,train
+37503,Watches,9,train
+27899,Tops,7,train
+38641,Tshirts,8,train
+14441,Heels,2,train
+3489,Casual Shoes,0,train
+23221,Kurtas,3,train
+30779,Kurtas,3,train
+58666,Kurtas,3,train
+10299,Heels,2,train
+11813,Kurtas,3,train
+31050,Shirts,4,train
+45970,Tops,7,train
+12100,Kurtas,3,train
+31324,Kurtas,3,train
+29594,Tshirts,8,train
+34038,Shirts,4,train
+21562,Handbags,1,train
+39180,Kurtas,3,train
+8680,Sunglasses,6,train
+15293,Handbags,1,train
+15713,Sports Shoes,5,train
+38222,Sunglasses,6,train
+3706,Tshirts,8,train
+54676,Watches,9,train
+33045,Kurtas,3,train
+39664,Casual Shoes,0,train
+11196,Watches,9,train
+39591,Heels,2,train
+5349,Sports Shoes,5,train
+9113,Sports Shoes,5,train
+5974,Shirts,4,train
+49484,Casual Shoes,0,train
+5505,Handbags,1,train
+9387,Casual Shoes,0,train
+6272,Tshirts,8,train
+32299,Watches,9,train
+5375,Sports Shoes,5,train
+16862,Sunglasses,6,train
+36832,Kurtas,3,train
+31106,Tshirts,8,train
+6198,Tops,7,train
+20876,Casual Shoes,0,train
+51564,Watches,9,train
+54540,Sports Shoes,5,train
+35848,Casual Shoes,0,train
+23698,Sunglasses,6,train
+34041,Shirts,4,train
+30038,Watches,9,train
+32574,Tops,7,train
+37494,Watches,9,train
+32309,Watches,9,train
+33057,Shirts,4,train
+14550,Kurtas,3,train
+17828,Casual Shoes,0,train
+11017,Tops,7,train
+36815,Kurtas,3,train
+57284,Shirts,4,train
+28755,Kurtas,3,train
+39224,Shirts,4,train
+51660,Watches,9,train
+3713,Tshirts,8,train
+32840,Heels,2,train
+54033,Handbags,1,train
+7427,Tops,7,train
+31640,Shirts,4,train
+4558,Sports Shoes,5,train
+30302,Tshirts,8,train
+34170,Tshirts,8,train
+27678,Handbags,1,train
+45355,Heels,2,train
+43536,Tops,7,train
+7168,Shirts,4,train
+49663,Sunglasses,6,train
+6708,Shirts,4,train
+38675,Sports Shoes,5,train
+43923,Tops,7,train
+28473,Tops,7,train
+25637,Watches,9,train
+15190,Tshirts,8,train
+45943,Tops,7,train
+15400,Sports Shoes,5,train
+7423,Kurtas,3,train
+51556,Watches,9,train
+34559,Handbags,1,train
+53826,Kurtas,3,train
+49063,Handbags,1,train
+10677,Tops,7,train
+42749,Heels,2,train
+45815,Heels,2,train
+21741,Casual Shoes,0,train
+22749,Kurtas,3,train
+17672,Heels,2,train
+21341,Sunglasses,6,train
+17164,Shirts,4,train
+12518,Casual Shoes,0,train
+46393,Shirts,4,train
+45925,Watches,9,train
+4996,Sports Shoes,5,train
+59260,Watches,9,train
+12629,Tshirts,8,train
+12361,Shirts,4,train
+32395,Shirts,4,train
+32366,Watches,9,train
+18878,Shirts,4,train
+15745,Sports Shoes,5,train
+51681,Sunglasses,6,train
+7268,Tshirts,8,train
+22833,Casual Shoes,0,train
+30667,Sunglasses,6,train
+9454,Shirts,4,train
+24717,Casual Shoes,0,train
+37291,Watches,9,train
+7704,Tops,7,train
+5572,Sports Shoes,5,train
+19853,Shirts,4,train
+5442,Tshirts,8,train
+53943,Handbags,1,train
+14741,Shirts,4,train
+5750,Tops,7,train
+42533,Kurtas,3,train
+40394,Tops,7,train
+16476,Shirts,4,train
+3073,Tshirts,8,train
+48216,Sunglasses,6,train
+19044,Heels,2,train
+17224,Sunglasses,6,train
+51529,Watches,9,train
+30748,Kurtas,3,train
+11202,Watches,9,train
+57295,Shirts,4,train
+16541,Shirts,4,train
+18861,Tshirts,8,train
+16290,Tshirts,8,train
+40515,Watches,9,train
+16320,Tshirts,8,train
+2307,Tshirts,8,train
+31639,Shirts,4,train
+50212,Sunglasses,6,train
+14729,Tshirts,8,train
+32596,Tops,7,train
+32579,Tops,7,train
+20421,Handbags,1,train
+59042,Heels,2,train
+53307,Tshirts,8,train
+26343,Watches,9,train
+10024,Tshirts,8,train
+15723,Sports Shoes,5,train
+12977,Sports Shoes,5,train
+10216,Handbags,1,train
+30269,Sunglasses,6,train
+17666,Heels,2,train
+17131,Handbags,1,train
+34886,Handbags,1,train
+4313,Tshirts,8,train
+17043,Casual Shoes,0,train
+36900,Watches,9,train
+28297,Sunglasses,6,train
+47564,Heels,2,train
+32454,Tshirts,8,train
+45003,Watches,9,train
+8445,Tops,7,train
+22759,Kurtas,3,train
+18631,Tshirts,8,train
+43878,Casual Shoes,0,train
+13845,Shirts,4,train
+17175,Shirts,4,train
+51426,Shirts,4,train
+28381,Sunglasses,6,train
+30679,Sunglasses,6,train
+22227,Tshirts,8,train
+42539,Kurtas,3,train
+50719,Tops,7,train
+12884,Tshirts,8,train
+6888,Tops,7,train
+43002,Sports Shoes,5,train
+51535,Watches,9,train
+8661,Sunglasses,6,train
+40178,Sunglasses,6,train
+38586,Tshirts,8,train
+35261,Tops,7,train
+27534,Shirts,4,train
+47579,Heels,2,train
+58668,Kurtas,3,train
+58645,Kurtas,3,train
+52678,Watches,9,train
+10372,Tshirts,8,train
+33955,Tshirts,8,train
+23725,Sunglasses,6,train
+10198,Handbags,1,train
+3971,Tops,7,train
+41519,Sunglasses,6,train
+4315,Tshirts,8,train
+25171,Handbags,1,train
+56933,Heels,2,train
+21543,Handbags,1,train
+15200,Tshirts,8,train
+27079,Heels,2,train
+11050,Shirts,4,train
+20158,Shirts,4,train
+18473,Casual Shoes,0,train
+23624,Tops,7,train
+29256,Sports Shoes,5,train
+34007,Tops,7,train
+11755,Tops,7,train
+41972,Tops,7,train
+11736,Tshirts,8,train
+56923,Heels,2,train
+49588,Heels,2,train
+11164,Shirts,4,train
+21320,Sunglasses,6,train
+42244,Tops,7,train
+49650,Tops,7,train
+3228,Casual Shoes,0,train
+49675,Sunglasses,6,train
+26426,Handbags,1,train
+16098,Sunglasses,6,train
+21165,Tops,7,train
+53840,Kurtas,3,train
+6059,Shirts,4,train
+43909,Kurtas,3,train
+11258,Tops,7,train
+45369,Heels,2,train
+8713,Sunglasses,6,train
+27289,Kurtas,3,train
+27286,Kurtas,3,train
+9618,Shirts,4,train
+16860,Sunglasses,6,train
+6740,Sports Shoes,5,train
+5794,Tops,7,train
+29257,Sports Shoes,5,train
+38289,Tops,7,train
+33135,Heels,2,train
+23739,Sunglasses,6,train
+4192,Tshirts,8,train
+25651,Watches,9,train
+48187,Handbags,1,train
+13707,Tshirts,8,train
+25286,Handbags,1,train
+16865,Sunglasses,6,train
+12275,Shirts,4,train
+18568,Casual Shoes,0,train
+43624,Tops,7,train
+31653,Shirts,4,train
+7415,Kurtas,3,train
+19701,Shirts,4,train
+28835,Kurtas,3,train
+30096,Watches,9,train
+23237,Kurtas,3,train
+46980,Handbags,1,train
+43945,Heels,2,train
+37328,Watches,9,train
+43379,Casual Shoes,0,train
+36229,Sports Shoes,5,train
+42685,Kurtas,3,train
+53458,Heels,2,train
+23842,Sports Shoes,5,train
+53585,Watches,9,train
+35910,Handbags,1,train
+26683,Sports Shoes,5,train
+7207,Tops,7,train
+39910,Sports Shoes,5,train
+14097,Tshirts,8,train
+56866,Heels,2,train
+17676,Heels,2,train
+49580,Heels,2,train
+34731,Handbags,1,train
+13749,Shirts,4,train
+20177,Shirts,4,train
+54396,Handbags,1,train
+17332,Sunglasses,6,train
+51685,Sunglasses,6,train
+26369,Shirts,4,train
+19780,Handbags,1,train
+54631,Watches,9,train
+14478,Heels,2,train
+13966,Tshirts,8,train
+21481,Watches,9,train
+14361,Heels,2,train
+21304,Sunglasses,6,train
+20512,Handbags,1,train
+10506,Tops,7,train
+9720,Sports Shoes,5,train
+23287,Watches,9,train
+12230,Shirts,4,train
+35681,Casual Shoes,0,train
+38660,Casual Shoes,0,train
+37984,Tshirts,8,train
+22867,Casual Shoes,0,train
+3646,Casual Shoes,0,train
+56946,Heels,2,train
+52650,Handbags,1,train
+53850,Kurtas,3,train
+44810,Tops,7,train
+22631,Tshirts,8,train
+11513,Heels,2,train
+33130,Heels,2,train
+37272,Tshirts,8,train
+20026,Shirts,4,train
+4153,Sports Shoes,5,train
+23510,Watches,9,train
+21131,Tops,7,train
+29877,Sunglasses,6,train
+36429,Casual Shoes,0,train
+29918,Watches,9,train
+10156,Casual Shoes,0,train
+10078,Sports Shoes,5,train
+46420,Watches,9,train
+11435,Tops,7,train
+18317,Shirts,4,train
+28390,Sunglasses,6,train
+5780,Tops,7,train
+38194,Sunglasses,6,train
+28741,Kurtas,3,train
+10122,Sports Shoes,5,train
+43033,Shirts,4,train
+29411,Watches,9,train
+9108,Sports Shoes,5,train
+9213,Casual Shoes,0,train
+28182,Sunglasses,6,train
+1546,Casual Shoes,0,train
+24558,Kurtas,3,train
+26605,Sports Shoes,5,train
+58682,Kurtas,3,train
+23887,Sports Shoes,5,train
+31099,Shirts,4,train
+8452,Tops,7,train
+40634,Kurtas,3,train
+45981,Tops,7,train
+30183,Handbags,1,train
+52164,Tops,7,train
+34750,Casual Shoes,0,train
+47889,Handbags,1,train
+6638,Casual Shoes,0,train
+29132,Sunglasses,6,train
+8704,Sunglasses,6,train
+32381,Tops,7,train
+59379,Kurtas,3,train
+42428,Kurtas,3,train
+15503,Casual Shoes,0,train
+22865,Casual Shoes,0,train
+45364,Heels,2,train
+19735,Shirts,4,train
+49551,Handbags,1,train
+43085,Tshirts,8,train
+19087,Kurtas,3,train
+1541,Sports Shoes,5,train
+16898,Sunglasses,6,train
+37079,Handbags,1,train
+34862,Casual Shoes,0,train
+8665,Sunglasses,6,train
+47003,Kurtas,3,train
+54681,Kurtas,3,train
+31305,Kurtas,3,train
+16090,Sunglasses,6,train
+9712,Shirts,4,train
+50154,Heels,2,train
+4398,Tshirts,8,train
+43228,Handbags,1,train
+47018,Kurtas,3,train
+22777,Kurtas,3,train
+5243,Sports Shoes,5,train
+49615,Heels,2,train
+18226,Tshirts,8,train
+20281,Heels,2,train
+43539,Tops,7,train
+12180,Shirts,4,train
+26878,Tops,7,train
+12707,Sports Shoes,5,train
+23785,Sunglasses,6,train
+27294,Kurtas,3,train
+11621,Kurtas,3,train
+7166,Shirts,4,train
+37001,Handbags,1,train
+56934,Heels,2,train
+7419,Kurtas,3,train
+51554,Watches,9,train
+36614,Heels,2,train
+27075,Heels,2,train
+34748,Casual Shoes,0,train
+7040,Casual Shoes,0,train
+39711,Watches,9,train
+38544,Casual Shoes,0,train
+9134,Sports Shoes,5,train
+30000,Watches,9,train
+59012,Sports Shoes,5,train
+4191,Tshirts,8,train
+41704,Heels,2,train
+9665,Shirts,4,train
+49322,Watches,9,train
+33235,Shirts,4,train
+36206,Shirts,4,train
+5384,Sports Shoes,5,train
+17213,Sunglasses,6,train
+4884,Tops,7,train
+38327,Tops,7,train
+18753,Tops,7,train
+12691,Sports Shoes,5,train
+9792,Shirts,4,train
+47812,Handbags,1,train
+59872,Tops,7,train
+36476,Casual Shoes,0,train
+9002,Casual Shoes,0,train
+28204,Sunglasses,6,train
+11761,Tops,7,train
+28999,Tshirts,8,train
+48073,Tshirts,8,train
+6368,Casual Shoes,0,train
+15097,Kurtas,3,train
+43932,Heels,2,train
+57520,Casual Shoes,0,train
+6610,Tshirts,8,train
+33036,Kurtas,3,train
+15832,Kurtas,3,train
+19058,Kurtas,3,train
+49773,Kurtas,3,train
+19281,Watches,9,train
+39663,Casual Shoes,0,train
+29873,Sunglasses,6,train
+20604,Handbags,1,train
+5094,Tshirts,8,train
+1649,Casual Shoes,0,train
+18722,Tops,7,train
+43943,Heels,2,train
+20859,Sunglasses,6,train
+19752,Tshirts,8,train
+20275,Heels,2,train
+39597,Heels,2,train
+45837,Kurtas,3,train
+37509,Watches,9,train
+39026,Watches,9,train
+38176,Sunglasses,6,train
+47011,Kurtas,3,train
+18719,Tops,7,train
+29238,Sports Shoes,5,train
+38152,Tshirts,8,train
+8658,Sunglasses,6,train
+19581,Tshirts,8,train
+23873,Tshirts,8,train
+18413,Sports Shoes,5,train
+12357,Shirts,4,train
+43268,Kurtas,3,train
+29979,Watches,9,train
+38240,Sunglasses,6,train
+54019,Handbags,1,train
+5506,Tshirts,8,train
+28386,Sunglasses,6,train
+13538,Casual Shoes,0,train
+37155,Tshirts,8,train
+51625,Watches,9,train
+41393,Shirts,4,train
+3868,Tshirts,8,train
+19098,Kurtas,3,train
+13404,Shirts,4,train
+27445,Tshirts,8,train
+56696,Kurtas,3,train
+49662,Sunglasses,6,train
+33105,Heels,2,train
+54580,Kurtas,3,train
+2984,Tshirts,8,train
+43929,Heels,2,train
+53147,Heels,2,train
+27191,Kurtas,3,train
+24789,Handbags,1,train
+22032,Kurtas,3,train
+45922,Watches,9,train
+26620,Sports Shoes,5,train
+48448,Tshirts,8,train
+11567,Kurtas,3,train
+47562,Heels,2,train
+28285,Sunglasses,6,train
+5429,Casual Shoes,0,train
+12094,Kurtas,3,train
+5898,Casual Shoes,0,train
+5486,Tshirts,8,train
+5999,Shirts,4,train
+33243,Shirts,4,train
+21030,Heels,2,train
+50753,Casual Shoes,0,train
+50346,Kurtas,3,train
+28430,Watches,9,train
+28584,Watches,9,train
+20611,Handbags,1,train
+14368,Heels,2,train
+36001,Tshirts,8,train
+28296,Sunglasses,6,train
+54829,Handbags,1,train
+9778,Tshirts,8,train
+26327,Sports Shoes,5,train
+50153,Heels,2,train
+44857,Tshirts,8,train
+22051,Kurtas,3,train
+13960,Tops,7,train
+11620,Kurtas,3,train
+21042,Heels,2,train
+1827,Sports Shoes,5,train
+43256,Kurtas,3,train
+32223,Kurtas,3,train
+17324,Sunglasses,6,train
+39622,Sports Shoes,5,train
+47334,Handbags,1,train
+16868,Sunglasses,6,train
+22741,Kurtas,3,train
+21308,Sunglasses,6,train
+9520,Shirts,4,train
+16894,Sunglasses,6,train
+25645,Watches,9,train
+3309,Sports Shoes,5,train
+30684,Sunglasses,6,train
+42684,Kurtas,3,train
+32762,Shirts,4,train
+29754,Watches,9,train
+9395,Sports Shoes,5,train
+17680,Heels,2,train
+21275,Sunglasses,6,train
+20129,Shirts,4,train
+47455,Heels,2,train
+25705,Tops,7,train
+35880,Tshirts,8,train
+47341,Handbags,1,train
+12697,Sports Shoes,5,train
+8091,Sports Shoes,5,train
+22158,Casual Shoes,0,train
+9989,Tshirts,8,train
+33107,Heels,2,train
+22575,Shirts,4,train
+25149,Handbags,1,train
+33493,Shirts,4,train
+30270,Sunglasses,6,train
+39464,Kurtas,3,train
+13726,Casual Shoes,0,train
+12089,Kurtas,3,train
+3588,Casual Shoes,0,train
+9827,Tshirts,8,train
+43334,Handbags,1,train
+5012,Tops,7,train
+40403,Tops,7,train
+32351,Watches,9,train
+44976,Watches,9,train
+39174,Kurtas,3,train
+51708,Sunglasses,6,train
+27061,Handbags,1,train
+16936,Sunglasses,6,train
+21976,Handbags,1,train
+3307,Sports Shoes,5,train
+36297,Kurtas,3,train
+54556,Kurtas,3,train
+37414,Handbags,1,train
+13991,Sports Shoes,5,train
+54089,Tops,7,train
+40549,Watches,9,train
+40565,Kurtas,3,train
+26794,Shirts,4,train
+36769,Watches,9,train
+39274,Casual Shoes,0,train
+49497,Casual Shoes,0,train
+25650,Watches,9,train
+27722,Handbags,1,train
+38236,Sunglasses,6,train
+52623,Handbags,1,train
+19647,Tops,7,train
+19831,Shirts,4,train
+26332,Watches,9,train
+19614,Tshirts,8,train
+22718,Sports Shoes,5,train
+34821,Sports Shoes,5,train
+45788,Heels,2,train
+3404,Handbags,1,train
+24551,Kurtas,3,train
+2900,Heels,2,train
+4604,Handbags,1,train
+24662,Casual Shoes,0,train
+4134,Casual Shoes,0,train
+40502,Watches,9,train
+36207,Tops,7,train
+13047,Heels,2,train
+58533,Sunglasses,6,train
+29290,Shirts,4,train
+53843,Kurtas,3,train
+42995,Sports Shoes,5,train
+32196,Kurtas,3,train
+18474,Casual Shoes,0,train
+15108,Tops,7,train
+29750,Watches,9,train
+7312,Tops,7,train
+35237,Casual Shoes,0,train
+4208,Tshirts,8,train
+21148,Tops,7,train
+37544,Tshirts,8,train
+10871,Tshirts,8,train
+47547,Heels,2,train
+47626,Heels,2,train
+44894,Tshirts,8,train
+54494,Handbags,1,train
+8729,Shirts,4,train
+20385,Handbags,1,train
+57857,Heels,2,train
+46312,Watches,9,train
+25834,Kurtas,3,train
+16084,Sunglasses,6,train
+45035,Watches,9,train
+32830,Heels,2,train
+15513,Casual Shoes,0,train
+30673,Sunglasses,6,train
+3161,Sports Shoes,5,train
+51668,Sunglasses,6,train
+48450,Tshirts,8,train
+14362,Heels,2,train
+12061,Kurtas,3,train
+30266,Sunglasses,6,train
+39455,Kurtas,3,train
+16942,Sunglasses,6,train
+39969,Casual Shoes,0,train
+11058,Shirts,4,train
+49597,Heels,2,train
+24302,Casual Shoes,0,train
+58797,Shirts,4,train
+4402,Tshirts,8,train
+38313,Sunglasses,6,train
+28348,Sunglasses,6,train
+23841,Casual Shoes,0,train
+2138,Shirts,4,train
+38165,Sunglasses,6,train
+24356,Kurtas,3,train
+2901,Heels,2,train
+5470,Sports Shoes,5,train
+45371,Heels,2,train
+14580,Shirts,4,train
+27097,Kurtas,3,train
+58648,Kurtas,3,train
+12494,Tops,7,train
+37295,Watches,9,train
+5568,Sports Shoes,5,train
+39015,Watches,9,train
+26897,Tops,7,train
+53609,Watches,9,train
+17460,Watches,9,train
+59243,Watches,9,train
+3207,Tshirts,8,train
+15220,Casual Shoes,0,train
+30681,Sunglasses,6,train
+51728,Sunglasses,6,train
+14377,Heels,2,train
+36433,Casual Shoes,0,train
+8447,Tops,7,train
+8240,Handbags,1,train
+44503,Casual Shoes,0,train
+41721,Heels,2,train
+58498,Tops,7,train
+13144,Heels,2,train
+58527,Sunglasses,6,train
+45963,Tops,7,train
+39593,Casual Shoes,0,train
+56674,Watches,9,train
+31094,Shirts,4,train
+43688,Tops,7,train
+34557,Handbags,1,train
+32727,Casual Shoes,0,train
+18257,Kurtas,3,train
+43291,Handbags,1,train
+28735,Kurtas,3,train
+52675,Watches,9,train
+38470,Handbags,1,train
+22304,Heels,2,train
+9462,Shirts,4,train
+43629,Shirts,4,train
+13921,Sports Shoes,5,train
+47142,Handbags,1,train
+28404,Sunglasses,6,train
+59373,Kurtas,3,train
+12850,Tops,7,train
+18756,Shirts,4,train
+6631,Sports Shoes,5,train
+2956,Tops,7,train
+8641,Sunglasses,6,train
+20700,Casual Shoes,0,train
+19608,Tops,7,train
+47298,Handbags,1,train
+28383,Sunglasses,6,train
+38542,Casual Shoes,0,train
+37315,Watches,9,train
+43030,Shirts,4,train
+19248,Watches,9,train
+4361,Tshirts,8,train
+45041,Watches,9,train
+2661,Handbags,1,train
+49516,Watches,9,train
+26411,Shirts,4,train
+39735,Casual Shoes,0,train
+51623,Watches,9,train
+11613,Kurtas,3,train
+32374,Watches,9,train
+56872,Heels,2,train
+13066,Casual Shoes,0,train
+3252,Sports Shoes,5,train
+17693,Casual Shoes,0,train
+17035,Casual Shoes,0,train
+46841,Casual Shoes,0,train
+30035,Watches,9,train
+30258,Casual Shoes,0,train
+23889,Sports Shoes,5,train
+17168,Shirts,4,train
+42394,Tshirts,8,train
+21296,Sunglasses,6,train
+33427,Handbags,1,train
+12136,Kurtas,3,train
+1978,Tops,7,train
+16856,Sunglasses,6,train
+5202,Tshirts,8,train
+37472,Watches,9,train
+28928,Tshirts,8,train
+29268,Sports Shoes,5,train
+23746,Sunglasses,6,train
+10204,Handbags,1,train
+5068,Watches,9,train
+29573,Casual Shoes,0,train
+29247,Tshirts,8,train
+17613,Tshirts,8,train
+16045,Shirts,4,train
+28292,Sunglasses,6,train
+32283,Watches,9,train
+4025,Casual Shoes,0,train
+4911,Tops,7,train
+4205,Tshirts,8,train
+46607,Heels,2,train
+53887,Handbags,1,train
+44883,Tshirts,8,train
+39609,Heels,2,train
+44454,Heels,2,train
+42842,Handbags,1,train
+11503,Heels,2,train
+7012,Tshirts,8,train
+44867,Tshirts,8,train
+39586,Heels,2,train
+46972,Handbags,1,train
+46974,Handbags,1,train
+2874,Heels,2,train
+30077,Watches,9,train
+31318,Kurtas,3,train
+21354,Sunglasses,6,train
+25415,Sports Shoes,5,train
+15436,Handbags,1,train
+29134,Sunglasses,6,train
+27561,Shirts,4,train
+12851,Tops,7,train
+13191,Casual Shoes,0,train
+2615,Tshirts,8,train
+51563,Watches,9,train
+31821,Watches,9,train
+25842,Kurtas,3,train
+22177,Casual Shoes,0,train
+9157,Shirts,4,train
+41790,Tops,7,train
+2665,Handbags,1,train
+17549,Shirts,4,train
+19652,Tops,7,train
+56920,Heels,2,train
+4638,Sports Shoes,5,train
+21026,Heels,2,train
+51700,Sunglasses,6,train
+29371,Shirts,4,train
+17322,Sunglasses,6,train
+54988,Tops,7,train
+3950,Tops,7,train
+45192,Watches,9,train
+28518,Tshirts,8,train
+17684,Casual Shoes,0,train
+48202,Sunglasses,6,train
+47574,Heels,2,train
+2484,Tshirts,8,train
+30018,Watches,9,train
+33152,Tops,7,train
+44741,Casual Shoes,0,train
+13417,Shirts,4,train
+2267,Tshirts,8,train
+23321,Kurtas,3,train
+50161,Heels,2,train
+5712,Sports Shoes,5,train
+3110,Tshirts,8,train
+12867,Casual Shoes,0,train
+19575,Tops,7,train
+10514,Tops,7,train
+43927,Heels,2,train
+11597,Kurtas,3,train
+14547,Kurtas,3,train
+43189,Watches,9,train
+5241,Sports Shoes,5,train
+17766,Casual Shoes,0,train
+40011,Sunglasses,6,train
+33044,Kurtas,3,train
+2887,Heels,2,train
+5108,Tops,7,train
+35806,Heels,2,train
+36500,Kurtas,3,train
+14481,Casual Shoes,0,train
+34858,Casual Shoes,0,train
+26795,Shirts,4,train
+8586,Shirts,4,train
+14576,Casual Shoes,0,train
+12608,Tops,7,train
+13216,Shirts,4,train
+6667,Sports Shoes,5,train
+8907,Sports Shoes,5,train
+56924,Heels,2,train
+50708,Tops,7,train
+18765,Heels,2,train
+31624,Shirts,4,train
+10403,Tops,7,train
+29729,Handbags,1,train
+9485,Handbags,1,train
+2876,Heels,2,train
+38210,Sunglasses,6,train
+55643,Heels,2,train
+23751,Sunglasses,6,train
+9664,Shirts,4,train
+26430,Handbags,1,train
+38030,Watches,9,train
+16760,Handbags,1,train
+25166,Handbags,1,train
+20279,Heels,2,train
+51702,Sunglasses,6,train
+46601,Heels,2,train
+17319,Sunglasses,6,train
+30846,Kurtas,3,train
+59362,Kurtas,3,train
+38848,Tops,7,train
+25312,Watches,9,train
+37719,Tshirts,8,train
+13487,Shirts,4,train
+5320,Casual Shoes,0,train
+5569,Sports Shoes,5,train
+8737,Shirts,4,train
+52816,Watches,9,train
+6385,Sports Shoes,5,train
+10814,Shirts,4,train
+8218,Sports Shoes,5,train
+28442,Handbags,1,train
+10037,Sports Shoes,5,train
+42891,Handbags,1,train
+12022,Shirts,4,train
+22395,Shirts,4,train
+30789,Kurtas,3,train
+30233,Casual Shoes,0,train
+6022,Tshirts,8,train
+3935,Tshirts,8,train
+56873,Heels,2,train
+30756,Kurtas,3,train
+14101,Tshirts,8,train
+40692,Casual Shoes,0,train
+43487,Shirts,4,train
+33744,Tops,7,train
+31978,Sports Shoes,5,train
+18274,Kurtas,3,train
+32211,Kurtas,3,train
+8093,Sports Shoes,5,train
+7592,Sports Shoes,5,train
+34626,Watches,9,train
+26664,Casual Shoes,0,train
+29761,Watches,9,train
+42205,Tops,7,train
+43371,Sports Shoes,5,train
+11363,Tshirts,8,train
+38864,Tops,7,train
+36475,Kurtas,3,train
+7006,Tshirts,8,train
+21679,Watches,9,train
+20111,Kurtas,3,train
+56676,Watches,9,train
+45016,Watches,9,train
+6220,Tshirts,8,train
+56962,Heels,2,train
+33415,Handbags,1,train
+39662,Sports Shoes,5,train
+22385,Shirts,4,train
+8707,Sunglasses,6,train
+59212,Heels,2,train
+7203,Tops,7,train
+8667,Sunglasses,6,train
+22011,Handbags,1,train
+28728,Kurtas,3,train
+31147,Shirts,4,train
+33112,Casual Shoes,0,train
+6724,Tshirts,8,train
+22258,Heels,2,train
+33540,Tops,7,train
+40532,Watches,9,train
+6799,Casual Shoes,0,train
+47621,Heels,2,train
+47008,Kurtas,3,train
+30863,Kurtas,3,train
+33430,Handbags,1,train
+46803,Sports Shoes,5,train
+53684,Handbags,1,train
+33218,Tops,7,train
+15259,Casual Shoes,0,train
+2683,Tshirts,8,train
+26179,Heels,2,train
+16890,Sunglasses,6,train
+27892,Shirts,4,train
+53620,Watches,9,train
+11499,Heels,2,train
+56914,Heels,2,train
+54940,Tshirts,8,train
+58007,Tops,7,train
+31620,Shirts,4,train
+42681,Kurtas,3,train
+57247,Handbags,1,train
+17266,Tshirts,8,train
+37322,Watches,9,train
+32244,Kurtas,3,train
+38535,Casual Shoes,0,train
+39636,Sports Shoes,5,train
+47610,Heels,2,train
+54834,Handbags,1,train
+25150,Handbags,1,train
+35465,Casual Shoes,0,train
+9733,Shirts,4,train
+49670,Sunglasses,6,train
+13735,Shirts,4,train
+5537,Sports Shoes,5,train
+34403,Tshirts,8,train
+50149,Heels,2,train
+44244,Handbags,1,train
+33995,Tops,7,train
+50323,Kurtas,3,train
+31293,Tops,7,train
+38637,Tshirts,8,train
+24419,Sports Shoes,5,train
+56882,Heels,2,train
+15225,Casual Shoes,0,train
+5869,Tops,7,train
+39968,Casual Shoes,0,train
+46117,Casual Shoes,0,train
+20011,Tops,7,train
+12971,Sports Shoes,5,train
+46500,Watches,9,train
+17033,Casual Shoes,0,train
+38235,Sunglasses,6,train
+11365,Tops,7,train
+39193,Heels,2,train
+10993,Tshirts,8,train
+48224,Sunglasses,6,train
+32401,Tops,7,train
+42854,Handbags,1,train
+42091,Sports Shoes,5,train
+56324,Watches,9,train
+25641,Watches,9,train
+33924,Watches,9,train
+24413,Sports Shoes,5,train
+33246,Shirts,4,train
+15651,Handbags,1,train
+23973,Tshirts,8,train
+34012,Tops,7,train
+22846,Casual Shoes,0,train
+17217,Sunglasses,6,train
+23864,Sports Shoes,5,train
+3529,Tshirts,8,train
+41443,Sports Shoes,5,train
+15546,Heels,2,train
+34762,Handbags,1,train
+10883,Tshirts,8,train
+38191,Sunglasses,6,train
+4251,Tshirts,8,train
+55632,Heels,2,train
+38218,Sunglasses,6,train
+20892,Casual Shoes,0,train
+4209,Tshirts,8,train
+13167,Sports Shoes,5,train
+14498,Casual Shoes,0,train
+46458,Watches,9,train
+53391,Kurtas,3,train
+25607,Watches,9,train
+1814,Tshirts,8,train
+48036,Watches,9,train
+52670,Watches,9,train
+5373,Sports Shoes,5,train
+2092,Tshirts,8,train
+17677,Heels,2,train
+37243,Casual Shoes,0,train
+17669,Casual Shoes,0,train
+41990,Shirts,4,train
+58653,Kurtas,3,train
+24927,Tops,7,train
+28177,Sunglasses,6,train
+29945,Watches,9,train
+16765,Handbags,1,train
+4514,Sports Shoes,5,train
+12515,Casual Shoes,0,train
+28375,Sunglasses,6,train
+8606,Tshirts,8,train
+32270,Kurtas,3,train
+24626,Casual Shoes,0,train
+51934,Handbags,1,train
+22562,Handbags,1,train
+14712,Shirts,4,train
+39588,Heels,2,train
+2654,Handbags,1,train
+52622,Handbags,1,train
+25333,Watches,9,train
+30693,Heels,2,train
+2672,Handbags,1,train
+24374,Kurtas,3,train
+9109,Sports Shoes,5,train
+3943,Tshirts,8,train
+58184,Handbags,1,train
+39013,Sports Shoes,5,train
+54572,Kurtas,3,train
+35807,Heels,2,train
+54536,Sports Shoes,5,train
+23731,Sunglasses,6,train
+54183,Handbags,1,train
+32228,Kurtas,3,train
+36505,Handbags,1,train
+13500,Tshirts,8,train
+4490,Sports Shoes,5,train
+15197,Tshirts,8,train
+17848,Tshirts,8,train
+8728,Shirts,4,train
+50326,Kurtas,3,train
+42653,Kurtas,3,train
+8687,Sunglasses,6,train
+2895,Heels,2,train
+39575,Heels,2,train
+46591,Heels,2,train
+12328,Shirts,4,train
+28401,Sunglasses,6,train
+5287,Casual Shoes,0,train
+11211,Watches,9,train
+48235,Sunglasses,6,train
+57524,Casual Shoes,0,train
+42424,Kurtas,3,train
+38446,Handbags,1,train
+51699,Sunglasses,6,train
+41665,Shirts,4,train
+59015,Sports Shoes,5,train
+9396,Sports Shoes,5,train
+57467,Casual Shoes,0,train
+7365,Casual Shoes,0,train
+58496,Tops,7,train
+43322,Tops,7,train
+29572,Casual Shoes,0,train
+28416,Sunglasses,6,train
+59381,Kurtas,3,train
+14419,Heels,2,train
+10107,Watches,9,train
+3082,Tshirts,8,train
+13734,Shirts,4,train
+43037,Shirts,4,train
+15512,Casual Shoes,0,train
+49616,Heels,2,train
+41589,Shirts,4,train
+34001,Tops,7,train
+45929,Watches,9,train
+29939,Watches,9,train
+51760,Heels,2,train
+8290,Tshirts,8,train
+42181,Sports Shoes,5,train
+5854,Handbags,1,train
+14483,Casual Shoes,0,train
+24412,Sports Shoes,5,train
+10211,Handbags,1,train
+31423,Kurtas,3,train
+30559,Sunglasses,6,train
+21569,Casual Shoes,0,train
+11629,Kurtas,3,train
+31774,Kurtas,3,train
+29907,Watches,9,train
+23325,Kurtas,3,train
+36897,Watches,9,train
+28370,Sunglasses,6,train
+12241,Shirts,4,train
+23781,Sunglasses,6,train
+12959,Sports Shoes,5,train
+9033,Casual Shoes,0,train
+37723,Shirts,4,train
+3442,Tshirts,8,train
+51741,Sports Shoes,5,train
+23521,Watches,9,train
+59941,Casual Shoes,0,train
+59356,Kurtas,3,train
+49067,Handbags,1,train
+45027,Watches,9,train
+6598,Tops,7,train
+27743,Handbags,1,train
+19602,Tops,7,train
+28154,Sunglasses,6,train
+14482,Casual Shoes,0,train
+26876,Tops,7,train
+11484,Watches,9,train
+25204,Handbags,1,train
+12510,Casual Shoes,0,train
+40657,Kurtas,3,train
+21713,Watches,9,train
+28165,Sunglasses,6,train
+51932,Handbags,1,train
+16157,Casual Shoes,0,train
+33827,Sports Shoes,5,train
+48371,Shirts,4,train
+45872,Watches,9,train
+40605,Kurtas,3,train
+37489,Watches,9,train
+10217,Handbags,1,train
+29879,Sunglasses,6,train
+30556,Sunglasses,6,train
+26902,Tops,7,train
+8257,Handbags,1,train
+9105,Sports Shoes,5,train
+24234,Kurtas,3,train
+33740,Tops,7,train
+29862,Sunglasses,6,train
+37856,Handbags,1,train
+16878,Sunglasses,6,train
+36673,Handbags,1,train
+8965,Sports Shoes,5,train
+3644,Casual Shoes,0,train
+16101,Sunglasses,6,train
+40472,Sports Shoes,5,train
+43498,Tshirts,8,train
+45113,Watches,9,train
+34831,Sports Shoes,5,train
+9498,Shirts,4,train
+4974,Shirts,4,train
+39027,Watches,9,train
+39715,Heels,2,train
+45327,Heels,2,train
+49599,Heels,2,train
+11842,Casual Shoes,0,train
+12864,Casual Shoes,0,train
+21892,Kurtas,3,train
+41715,Heels,2,train
+5321,Casual Shoes,0,train
+51510,Watches,9,train
+3016,Tshirts,8,train
+3991,Tshirts,8,train
+54491,Handbags,1,train
+29756,Watches,9,train
+43691,Tops,7,train
+24533,Kurtas,3,train
+4907,Tops,7,train
+42235,Tops,7,train
+22245,Casual Shoes,0,train
+41586,Shirts,4,train
+25629,Watches,9,train
+17327,Sunglasses,6,train
+3530,Tshirts,8,train
+34747,Casual Shoes,0,train
+17597,Sunglasses,6,train
+39623,Sports Shoes,5,val
+58531,Sunglasses,6,val
+8268,Tshirts,8,val
+40067,Tshirts,8,val
+54670,Watches,9,val
+22052,Kurtas,3,val
+8768,Sunglasses,6,val
+26958,Shirts,4,val
+3790,Casual Shoes,0,val
+21342,Sunglasses,6,val
+58700,Kurtas,3,val
+59884,Tops,7,val
+25682,Watches,9,val
+24817,Shirts,4,val
+13967,Tshirts,8,val
+30237,Casual Shoes,0,val
+22952,Sports Shoes,5,val
+39781,Shirts,4,val
+7156,Shirts,4,val
+56329,Watches,9,val
+7925,Tshirts,8,val
+14354,Heels,2,val
+9761,Tshirts,8,val
+41606,Shirts,4,val
+40613,Kurtas,3,val
+47423,Handbags,1,val
+26338,Watches,9,val
+59262,Watches,9,val
+7583,Tshirts,8,val
+27851,Tops,7,val
+16851,Sunglasses,6,val
+8275,Tshirts,8,val
+45924,Watches,9,val
+57105,Tops,7,val
+51675,Sunglasses,6,val
+17208,Sunglasses,6,val
+37242,Casual Shoes,0,val
+41043,Watches,9,val
+32970,Tshirts,8,val
+45130,Watches,9,val
+51644,Watches,9,val
+3343,Tshirts,8,val
+43304,Shirts,4,val
+39994,Sunglasses,6,val
+10701,Watches,9,val
+54665,Watches,9,val
+53394,Kurtas,3,val
+29124,Sports Shoes,5,val
+5759,Tops,7,val
+27703,Handbags,1,val
+14120,Tops,7,val
+51570,Watches,9,val
+25827,Kurtas,3,val
+33762,Tops,7,val
+19261,Watches,9,val
+30807,Shirts,4,val
+39458,Kurtas,3,val
+13858,Shirts,4,val
+28719,Kurtas,3,val
+33110,Heels,2,val
+53774,Tshirts,8,val
+5772,Tops,7,val
+3301,Sports Shoes,5,val
+16081,Sunglasses,6,val
+20280,Heels,2,val
+58731,Tshirts,8,val
+45174,Watches,9,val
+58734,Tshirts,8,val
+57424,Tshirts,8,val
+32393,Shirts,4,val
+48513,Tops,7,val
+45375,Heels,2,val
+30787,Kurtas,3,val
+21316,Sunglasses,6,val
+10141,Watches,9,val
+31698,Kurtas,3,val
+30682,Sunglasses,6,val
+41762,Tops,7,val
+17757,Casual Shoes,0,val
+46739,Watches,9,val
+51627,Watches,9,val
+13360,Casual Shoes,0,val
+25477,Sports Shoes,5,val
+28661,Sports Shoes,5,val
+25278,Handbags,1,val
+28396,Sunglasses,6,val
+28158,Sunglasses,6,val
+15566,Heels,2,val
+18254,Kurtas,3,val
+17308,Sunglasses,6,val
+25452,Casual Shoes,0,val
+48081,Tshirts,8,val
+27737,Handbags,1,val
+57231,Handbags,1,val
+3845,Tshirts,8,val
+52096,Tops,7,val
+45376,Heels,2,val
+47009,Kurtas,3,val
+15296,Handbags,1,val
+56897,Heels,2,val
+18033,Handbags,1,val
+17129,Handbags,1,val
+14283,Casual Shoes,0,val
+11381,Tops,7,val
+5130,Tops,7,val
+22491,Sports Shoes,5,val
+10377,Tshirts,8,val
+14798,Handbags,1,val
+3664,Sports Shoes,5,val
+22699,Sports Shoes,5,val
+8683,Sunglasses,6,val
+30566,Sunglasses,6,val
+8696,Sunglasses,6,val
+10186,Shirts,4,val
+11459,Shirts,4,val
+47378,Handbags,1,val
+56917,Heels,2,val
+17739,Sports Shoes,5,val
+51657,Watches,9,val
+58541,Sunglasses,6,val
+7450,Tshirts,8,val
+31148,Tshirts,8,val
+50160,Heels,2,val
+12782,Kurtas,3,val
+12368,Shirts,4,val
+7140,Shirts,4,val
+4076,Casual Shoes,0,val
+5763,Tops,7,val
+24600,Shirts,4,val
+22702,Casual Shoes,0,val
+17692,Casual Shoes,0,val
+9097,Casual Shoes,0,val
+20754,Heels,2,val
+54109,Heels,2,val
+35777,Sports Shoes,5,val
+35909,Handbags,1,val
+23736,Sunglasses,6,val
+15970,Shirts,4,val
+13680,Sports Shoes,5,val
+15693,Shirts,4,val
+18537,Casual Shoes,0,val
+31101,Shirts,4,val
+58672,Kurtas,3,val
+47814,Handbags,1,val
+21557,Handbags,1,val
+23638,Tshirts,8,val
+39151,Kurtas,3,val
+50279,Casual Shoes,0,val
+33734,Handbags,1,val
+8191,Shirts,4,val
+38195,Sunglasses,6,val
+21351,Sunglasses,6,val
+6410,Casual Shoes,0,val
+6197,Tshirts,8,val
+7313,Tops,7,val
+26057,Shirts,4,val
+24054,Tshirts,8,val
+39970,Casual Shoes,0,val
+22290,Heels,2,val
+10374,Tshirts,8,val
+17845,Sports Shoes,5,val
+34635,Casual Shoes,0,val
+32952,Casual Shoes,0,val
+19938,Sports Shoes,5,val
+25537,Shirts,4,val
+27742,Handbags,1,val
+22268,Heels,2,val
+45859,Kurtas,3,val
+22826,Casual Shoes,0,val
+16544,Shirts,4,val
+56959,Heels,2,val
+12950,Shirts,4,val
+15740,Sports Shoes,5,val
+24976,Tops,7,val
+28702,Kurtas,3,val
+13327,Shirts,4,val
+23714,Sunglasses,6,val
+30886,Kurtas,3,val
+4342,Sports Shoes,5,val
+44762,Sports Shoes,5,val
+23290,Watches,9,val
+53914,Handbags,1,val
+57838,Handbags,1,val
+26921,Tops,7,val
+23837,Sports Shoes,5,val
+39889,Sports Shoes,5,val
+8492,Tops,7,val
+47398,Handbags,1,val
+31643,Shirts,4,val
+22113,Sports Shoes,5,val
+46618,Heels,2,val
+12774,Kurtas,3,val
+2388,Casual Shoes,0,val
+20898,Heels,2,val
+40609,Kurtas,3,val
+57854,Heels,2,val
+14545,Kurtas,3,val
+10818,Shirts,4,val
+25921,Tshirts,8,val
+22539,Heels,2,val
+45370,Heels,2,val
+22919,Watches,9,val
+32954,Tshirts,8,val
+39718,Tops,7,val
+20459,Handbags,1,val
+35446,Tops,7,val
+3263,Tshirts,8,val
+54525,Sports Shoes,5,val
+35042,Kurtas,3,val
+32224,Kurtas,3,val
+26559,Casual Shoes,0,val
+10771,Casual Shoes,0,val
+7208,Tops,7,val
+16406,Shirts,4,val
+39578,Heels,2,val
+3455,Sports Shoes,5,val
+27683,Handbags,1,val
+25218,Handbags,1,val
+10223,Handbags,1,val
+22736,Sports Shoes,5,val
+3519,Tshirts,8,val
+33310,Tshirts,8,val
+57846,Handbags,1,val
+27262,Tops,7,val
+27687,Handbags,1,val
+35931,Sports Shoes,5,val
+3777,Tshirts,8,val
+26659,Casual Shoes,0,val
+29875,Sunglasses,6,val
+39697,Shirts,4,val
+53804,Tshirts,8,val
+58271,Handbags,1,val
+47139,Handbags,1,val
+21345,Sunglasses,6,val
+27152,Shirts,4,val
+23792,Sunglasses,6,val
+19767,Watches,9,val
+46017,Kurtas,3,val
+39734,Shirts,4,val
+10082,Sports Shoes,5,val
+22306,Heels,2,val
+28393,Sunglasses,6,val
+36418,Sports Shoes,5,val
+11933,Sports Shoes,5,val
+15307,Casual Shoes,0,val
+21284,Sunglasses,6,val
+6308,Heels,2,val
+28737,Kurtas,3,val
+6512,Tshirts,8,val
+56885,Heels,2,val
+29432,Watches,9,val
+5239,Sports Shoes,5,val
+9014,Sports Shoes,5,val
+54578,Kurtas,3,val
+40617,Kurtas,3,val
+23765,Sunglasses,6,val
+14907,Sunglasses,6,val
+2324,Tshirts,8,val
+48090,Tops,7,val
+58517,Tops,7,val
+41709,Heels,2,val
+4026,Casual Shoes,0,val
+11001,Watches,9,val
+14886,Handbags,1,val
+37159,Tops,7,val
+23941,Sports Shoes,5,val
+42668,Kurtas,3,val
+39152,Kurtas,3,val
+30210,Shirts,4,val
+7201,Tops,7,val
+23740,Sunglasses,6,val
+42218,Tops,7,val
+16913,Tshirts,8,val
+19762,Watches,9,val
+10795,Shirts,4,val
+38823,Shirts,4,val
+11045,Shirts,4,val
+19615,Tops,7,val
+56965,Heels,2,val
+28426,Sunglasses,6,val
+52695,Watches,9,val
+35425,Sports Shoes,5,val
+46385,Tshirts,8,val
+11636,Watches,9,val
+35445,Tops,7,val
+6445,Casual Shoes,0,val
+51269,Watches,9,val
+30848,Kurtas,3,val
+45333,Heels,2,val
+34632,Sports Shoes,5,val
+17312,Sunglasses,6,val
+9558,Tshirts,8,val
+26592,Sports Shoes,5,val
+16960,Sunglasses,6,val
+53870,Heels,2,val
+16130,Tops,7,val
+13460,Shirts,4,val
+38753,Handbags,1,val
+2091,Tshirts,8,val
+22796,Tshirts,8,val
+5408,Sports Shoes,5,val
+56944,Heels,2,val
+51562,Watches,9,val
+22611,Tshirts,8,val
+21358,Sunglasses,6,val
+23035,Shirts,4,val
+8693,Sunglasses,6,val
+46987,Handbags,1,val
+8674,Sunglasses,6,val
+30880,Kurtas,3,val
+12880,Casual Shoes,0,val
+11672,Shirts,4,val
+17232,Tshirts,8,val
+4853,Casual Shoes,0,val
+37249,Casual Shoes,0,val
+5109,Tops,7,val
+22255,Heels,2,val
+7749,Tshirts,8,val
+27668,Handbags,1,val
+4495,Sports Shoes,5,val
+23306,Kurtas,3,val
+28712,Kurtas,3,val
+29446,Watches,9,val
+48492,Tops,7,val
+2847,Tshirts,8,val
+30314,Tshirts,8,val
+58684,Kurtas,3,val
+54512,Handbags,1,val
+45144,Watches,9,val
+5398,Sports Shoes,5,val
+49962,Tshirts,8,val
+25634,Watches,9,val
+33689,Casual Shoes,0,val
+14922,Tshirts,8,val
+8344,Sports Shoes,5,val
+31851,Watches,9,val
+47643,Casual Shoes,0,val
+25296,Handbags,1,val
+53211,Shirts,4,val
+22160,Casual Shoes,0,val
+38422,Handbags,1,val
+27077,Heels,2,val
+34871,Handbags,1,val
+32464,Tshirts,8,val
+18543,Heels,2,val
+41605,Shirts,4,val
+10306,Casual Shoes,0,val
+45926,Watches,9,val
+41764,Tops,7,val
+15660,Handbags,1,val
+25207,Handbags,1,val
+18282,Kurtas,3,val
+46589,Heels,2,val
+28340,Sunglasses,6,val
+51294,Sunglasses,6,val
+40409,Tops,7,val
+25720,Handbags,1,val
+49874,Watches,9,val
+52095,Tops,7,val
+22111,Sports Shoes,5,val
+38052,Watches,9,val
+38163,Sunglasses,6,val
+30090,Watches,9,val
+15001,Tshirts,8,val
+40135,Tshirts,8,val
+37770,Shirts,4,val
+33488,Shirts,4,val
+5577,Sports Shoes,5,val
+36674,Handbags,1,val
+51458,Tops,7,val
+59045,Heels,2,val
+58267,Handbags,1,val
+34260,Tshirts,8,val
+30567,Sunglasses,6,val
+58542,Sunglasses,6,val
+24371,Kurtas,3,val
+22030,Kurtas,3,val
+16387,Shirts,4,val
+11807,Kurtas,3,val
+23260,Watches,9,val
+35788,Heels,2,val
+13295,Tops,7,val
+56818,Shirts,4,val
+20184,Shirts,4,val
+45352,Heels,2,val
+33874,Watches,9,val
+24858,Shirts,4,val
+54660,Watches,9,val
+9254,Shirts,4,val
+40642,Kurtas,3,val
+28599,Sports Shoes,5,val
+30860,Kurtas,3,val
+28167,Sunglasses,6,val
+5754,Sports Shoes,5,val
+32833,Heels,2,val
+22010,Handbags,1,val
+2540,Casual Shoes,0,val
+46588,Heels,2,val
+22063,Kurtas,3,val
+35808,Heels,2,val
+58549,Sunglasses,6,val
+43186,Watches,9,val
+7206,Tops,7,val
+26376,Shirts,4,val
+2915,Tops,7,val
+35819,Heels,2,val
+28965,Kurtas,3,val
+33109,Heels,2,val
+31641,Shirts,4,val
+24275,Tshirts,8,val
+13385,Casual Shoes,0,val
+56651,Tops,7,val
+51666,Sunglasses,6,val
+4704,Watches,9,val
+24050,Tshirts,8,val
+53657,Handbags,1,val
+23696,Sunglasses,6,val
+20899,Heels,2,val
+9961,Tshirts,8,val
+33768,Casual Shoes,0,val
+46118,Casual Shoes,0,val
+5757,Tops,7,val
+56660,Casual Shoes,0,val
+5401,Sports Shoes,5,val
+38770,Casual Shoes,0,val
+35712,Sports Shoes,5,val
+45781,Tops,7,val
+50156,Heels,2,val
+39634,Sports Shoes,5,val
+46539,Watches,9,val
+7954,Tshirts,8,val
+54941,Tops,7,val
+25260,Handbags,1,val
+58277,Handbags,1,val
+32496,Casual Shoes,0,val
+43949,Heels,2,val
+3640,Casual Shoes,0,val
+28703,Kurtas,3,val
+9482,Shirts,4,val
+19708,Shirts,4,val
+30768,Kurtas,3,val
+6731,Sports Shoes,5,val
+41988,Shirts,4,val
+31694,Kurtas,3,val
+6672,Casual Shoes,0,val
+23494,Casual Shoes,0,val
+22186,Casual Shoes,0,val
+39849,Tops,7,val
+47419,Handbags,1,val
+8626,Sunglasses,6,val
+42509,Kurtas,3,val
+24503,Kurtas,3,val
+39869,Heels,2,val
+36791,Watches,9,val
+25420,Casual Shoes,0,val
+7127,Tshirts,8,val
+45341,Heels,2,val
+43217,Watches,9,val
+36536,Handbags,1,val
+12005,Shirts,4,val
+21340,Sunglasses,6,val
+25338,Watches,9,val
+4507,Sports Shoes,5,val
+37190,Tops,7,val
+14560,Casual Shoes,0,val
+30870,Kurtas,3,val
+29096,Sunglasses,6,val
+31273,Tshirts,8,val
+20283,Shirts,4,val
+42237,Tops,7,val
+13328,Shirts,4,val
+12327,Shirts,4,val
+49375,Casual Shoes,0,val
+51704,Sunglasses,6,val
+10210,Handbags,1,val
+13471,Tops,7,val
+7421,Kurtas,3,val
+48028,Watches,9,val
+53835,Kurtas,3,val
+17747,Casual Shoes,0,val
+16840,Sunglasses,6,val
+12087,Kurtas,3,val
+31683,Sports Shoes,5,val
+17219,Sunglasses,6,val
+10154,Casual Shoes,0,val
+53710,Handbags,1,val
+28763,Kurtas,3,val
+45913,Watches,9,val
+3695,Casual Shoes,0,val
+23734,Sunglasses,6,val
+28282,Sunglasses,6,val
+25242,Handbags,1,val
+54132,Heels,2,val
+21524,Handbags,1,val
+22502,Heels,2,val
+19278,Watches,9,val
+24285,Shirts,4,val
+6745,Sports Shoes,5,val
+39687,Casual Shoes,0,val
+4897,Tops,7,val
+27854,Tops,7,val
+9399,Sports Shoes,5,val
+59369,Kurtas,3,val
+51730,Sunglasses,6,val
+22944,Watches,9,val
+10585,Watches,9,val
+39620,Heels,2,val
+2054,Tshirts,8,val
+33752,Tops,7,val
+41517,Sunglasses,6,val
+2348,Tshirts,8,val
+34647,Sports Shoes,5,val
+49567,Handbags,1,val
+16345,Shirts,4,val
+20613,Handbags,1,val
+54807,Handbags,1,val
+9924,Handbags,1,val
+25325,Watches,9,val
+43490,Tshirts,8,val
+13988,Casual Shoes,0,val
+39166,Kurtas,3,val
+53864,Kurtas,3,val
+49420,Casual Shoes,0,val
+35428,Sports Shoes,5,val
+33179,Tops,7,val
+46573,Watches,9,val
+35531,Casual Shoes,0,val
+25412,Sports Shoes,5,val
+17321,Sunglasses,6,val
+14451,Heels,2,val
+46549,Watches,9,val
+51635,Watches,9,val
+58266,Handbags,1,val
+16939,Sunglasses,6,val
+56995,Heels,2,val
+57817,Tops,7,val
+15867,Casual Shoes,0,val
+8810,Shirts,4,val
+52100,Kurtas,3,val
+50242,Handbags,1,val
+34889,Handbags,1,val
+19153,Tshirts,8,val
+39157,Kurtas,3,val
+14358,Heels,2,val
+54677,Watches,9,val
+22178,Casual Shoes,0,val
+7041,Casual Shoes,0,val
+44703,Tops,7,val
+35821,Heels,2,val
+8720,Shirts,4,val
+7310,Tops,7,val
+40387,Tops,7,val
+24416,Sports Shoes,5,val
+54655,Watches,9,val
+39984,Casual Shoes,0,val
+25411,Sports Shoes,5,val
+43654,Tops,7,val
+42665,Kurtas,3,val
+51761,Heels,2,val
+5365,Sports Shoes,5,val
+37308,Watches,9,val
+9392,Sports Shoes,5,val
+11179,Watches,9,val
+21168,Tops,7,val
+13163,Sports Shoes,5,val
+33120,Heels,2,val
+17334,Sunglasses,6,val
+7099,Handbags,1,val
+15288,Casual Shoes,0,val
+43924,Tops,7,val
+22295,Heels,2,val
+54007,Handbags,1,val
+58800,Shirts,4,val
+49605,Heels,2,val
+27034,Heels,2,val
+38494,Tshirts,8,val
+56938,Heels,2,val
+6804,Casual Shoes,0,val
+54693,Kurtas,3,val
+56910,Heels,2,val
+48400,Tshirts,8,val
+10088,Sports Shoes,5,val
+51680,Sunglasses,6,val
+42221,Tops,7,val
+54696,Kurtas,3,val
+16955,Sunglasses,6,val
+16759,Handbags,1,val
+6105,Tshirts,8,val
+23037,Shirts,4,val
+51639,Watches,9,val
+14815,Handbags,1,val
+3227,Sports Shoes,5,val
+4927,Tops,7,val
+24510,Kurtas,3,val
+32847,Heels,2,val
+6649,Sports Shoes,5,val
+13294,Tops,7,val
+30668,Sunglasses,6,val
+17455,Watches,9,val
+20689,Casual Shoes,0,val
+21957,Handbags,1,test
+5100,Tshirts,8,test
+21281,Sunglasses,6,test
+31974,Sports Shoes,5,test
+31301,Shirts,4,test
+47339,Handbags,1,test
+14136,Tops,7,test
+4340,Casual Shoes,0,test
+29241,Sports Shoes,5,test
+44979,Watches,9,test
+28163,Sunglasses,6,test
+16452,Shirts,4,test
+57479,Casual Shoes,0,test
+53830,Kurtas,3,test
+4885,Tops,7,test
+57937,Casual Shoes,0,test
+20753,Heels,2,test
+11651,Watches,9,test
+4920,Tops,7,test
+33630,Handbags,1,test
+7801,Tshirts,8,test
+45199,Watches,9,test
+44937,Casual Shoes,0,test
+41713,Heels,2,test
+58459,Tshirts,8,test
+51707,Sunglasses,6,test
+48223,Sunglasses,6,test
+5348,Sports Shoes,5,test
+10228,Handbags,1,test
+8895,Shirts,4,test
+10702,Watches,9,test
+7164,Shirts,4,test
+37970,Heels,2,test
+24941,Tops,7,test
+28360,Sunglasses,6,test
+5351,Sports Shoes,5,test
+7409,Kurtas,3,test
+40941,Tops,7,test
+21485,Handbags,1,test
+32841,Heels,2,test
+18905,Sports Shoes,5,test
+1841,Sports Shoes,5,test
+58546,Sunglasses,6,test
+43204,Watches,9,test
+30002,Watches,9,test
+30259,Casual Shoes,0,test
+35984,Tops,7,test
+18238,Tshirts,8,test
+41041,Watches,9,test
+58447,Watches,9,test
+53931,Handbags,1,test
+58547,Sunglasses,6,test
+4163,Sports Shoes,5,test
+42984,Sports Shoes,5,test
+59366,Kurtas,3,test
+28161,Sunglasses,6,test
+24735,Shirts,4,test
+9334,Tops,7,test
+36776,Watches,9,test
+21744,Casual Shoes,0,test
+49901,Watches,9,test
+28212,Sunglasses,6,test
+36830,Kurtas,3,test
+21885,Kurtas,3,test
+20016,Tops,7,test
+2393,Casual Shoes,0,test
+16034,Shirts,4,test
+15881,Casual Shoes,0,test
+14727,Tshirts,8,test
+25691,Tops,7,test
+5949,Shirts,4,test
+27101,Kurtas,3,test
+38492,Tshirts,8,test
+16327,Shirts,4,test
+14623,Shirts,4,test
+43881,Casual Shoes,0,test
+33444,Handbags,1,test
+7146,Tops,7,test
+9584,Handbags,1,test
+14788,Handbags,1,test
+18256,Kurtas,3,test
+43641,Tops,7,test
+34751,Casual Shoes,0,test
+48039,Watches,9,test
+15520,Casual Shoes,0,test
+29169,Tops,7,test
+6779,Shirts,4,test
+3384,Handbags,1,test
+51695,Sunglasses,6,test
+7722,Casual Shoes,0,test
+4759,Tshirts,8,test
+4183,Casual Shoes,0,test
+57165,Tops,7,test
+17424,Watches,9,test
+13401,Shirts,4,test
+42860,Handbags,1,test
+51463,Tops,7,test
+11997,Tshirts,8,test
+17230,Sunglasses,6,test
+15502,Casual Shoes,0,test
+56864,Heels,2,test
+32305,Watches,9,test
+34094,Tops,7,test
+54407,Handbags,1,test
+32234,Kurtas,3,test
+4082,Tshirts,8,test
+34735,Sports Shoes,5,test
+7304,Tops,7,test
+3459,Sports Shoes,5,test
+20132,Tops,7,test
+8082,Sports Shoes,5,test
+40552,Watches,9,test
+44739,Casual Shoes,0,test
+45331,Heels,2,test
+46584,Heels,2,test
+49167,Sunglasses,6,test
+8448,Tops,7,test
+20782,Heels,2,test
+56678,Watches,9,test
+22031,Kurtas,3,test
+41378,Tops,7,test
+41777,Tops,7,test
+28388,Sunglasses,6,test
+43503,Tshirts,8,test
+10509,Tshirts,8,test
+28727,Kurtas,3,test
+53438,Sports Shoes,5,test
+45343,Heels,2,test
+22912,Casual Shoes,0,test
+21498,Handbags,1,test
+42544,Kurtas,3,test
+14381,Heels,2,test
+34399,Tshirts,8,test
+34574,Tops,7,test
+24739,Handbags,1,test
+21312,Sunglasses,6,test
+47292,Handbags,1,test
+5871,Casual Shoes,0,test
+8675,Sunglasses,6,test
+20153,Shirts,4,test
+14440,Heels,2,test
+41435,Sports Shoes,5,test
+59227,Watches,9,test
+5660,Tshirts,8,test
+30766,Kurtas,3,test
+14535,Kurtas,3,test
+24367,Kurtas,3,test
+34873,Handbags,1,test
+21322,Sunglasses,6,test
+24068,Shirts,4,test
+27293,Kurtas,3,test
+13166,Sports Shoes,5,test
+29882,Sunglasses,6,test
+24400,Kurtas,3,test
+1762,Tshirts,8,test
+59376,Kurtas,3,test
+9658,Shirts,4,test
+41676,Heels,2,test
+31833,Watches,9,test
+41706,Heels,2,test
+12350,Shirts,4,test
+24455,Sports Shoes,5,test
+32389,Tops,7,test
+56679,Heels,2,test
+7053,Shirts,4,test
+29977,Watches,9,test
+40376,Tops,7,test
+11109,Shirts,4,test
+15606,Tshirts,8,test
+31097,Shirts,4,test
+25504,Tshirts,8,test
+16781,Watches,9,test
+30759,Kurtas,3,test
+35803,Heels,2,test
+14496,Casual Shoes,0,test
+4919,Tops,7,test
+31046,Shirts,4,test
+3566,Sports Shoes,5,test
+32768,Tshirts,8,test
+35918,Handbags,1,test
+11819,Casual Shoes,0,test
+20487,Handbags,1,test
+11369,Tops,7,test
+18477,Casual Shoes,0,test
+48257,Tshirts,8,test
+46425,Watches,9,test
+3445,Tshirts,8,test
+21118,Shirts,4,test
+10822,Tshirts,8,test
+2861,Tshirts,8,test
+38216,Sunglasses,6,test
+44746,Casual Shoes,0,test
+29937,Watches,9,test
+4166,Sports Shoes,5,test
+41736,Heels,2,test
+59296,Shirts,4,test
+42644,Kurtas,3,test
+47637,Heels,2,test
+10336,Tops,7,test
+32279,Kurtas,3,test
+17673,Heels,2,test
+54742,Casual Shoes,0,test
+10809,Shirts,4,test
+49596,Heels,2,test
+48218,Sunglasses,6,test
+18558,Heels,2,test
+4229,Tshirts,8,test
+12870,Casual Shoes,0,test
+53410,Kurtas,3,test
+40173,Sunglasses,6,test
+3964,Tops,7,test
+11364,Tops,7,test
+4282,Casual Shoes,0,test
+39626,Sports Shoes,5,test
+17036,Casual Shoes,0,test
+53423,Kurtas,3,test
+59030,Heels,2,test
+12519,Casual Shoes,0,test
+15104,Kurtas,3,test
+54392,Handbags,1,test
+19604,Tops,7,test
+59236,Watches,9,test
+5471,Sports Shoes,5,test
+14812,Handbags,1,test
+39746,Tops,7,test
+34865,Handbags,1,test
+17513,Tshirts,8,test
+42598,Shirts,4,test
+18793,Handbags,1,test
+29184,Shirts,4,test
+2967,Sports Shoes,5,test
+37747,Shirts,4,test
+8826,Shirts,4,test
+40407,Tops,7,test
+38850,Tops,7,test
+56958,Heels,2,test
+56908,Heels,2,test
+28406,Sunglasses,6,test
+43187,Watches,9,test
+15568,Heels,2,test
+14330,Sports Shoes,5,test
+30665,Sunglasses,6,test
+52143,Tshirts,8,test
+40616,Kurtas,3,test
+24409,Sports Shoes,5,test
+59938,Casual Shoes,0,test
+18273,Kurtas,3,test
+5699,Casual Shoes,0,test
+8450,Tops,7,test
+3769,Tshirts,8,test
+36234,Kurtas,3,test
+38343,Tops,7,test
+38444,Handbags,1,test
+57521,Casual Shoes,0,test
+28602,Sports Shoes,5,test
+11229,Watches,9,test
+44458,Heels,2,test
+15860,Casual Shoes,0,test
+58658,Kurtas,3,test
+32846,Heels,2,test
+39771,Shirts,4,test
+5427,Tshirts,8,test
+41785,Tops,7,test
+17704,Casual Shoes,0,test
+26890,Tops,7,test
+28411,Sunglasses,6,test
+34649,Sports Shoes,5,test
+25674,Watches,9,test
+54131,Heels,2,test
+40625,Kurtas,3,test
+44697,Tops,7,test
+16761,Handbags,1,test
+24190,Casual Shoes,0,test
+8148,Shirts,4,test
+52754,Handbags,1,test
+13758,Shirts,4,test
+26040,Shirts,4,test
+28747,Kurtas,3,test
+48198,Sunglasses,6,test
+31813,Watches,9,test
+30845,Kurtas,3,test
+43700,Tops,7,test
+21521,Handbags,1,test
+22921,Watches,9,test
+56681,Watches,9,test
+3656,Sports Shoes,5,test
+41377,Tops,7,test
+9738,Shirts,4,test
+27748,Handbags,1,test
+44421,Casual Shoes,0,test
+21273,Sunglasses,6,test
+20272,Heels,2,test
+25609,Watches,9,test
+36676,Handbags,1,test
+38605,Tshirts,8,test
+25181,Handbags,1,test
+38008,Watches,9,test
+50406,Watches,9,test
+12012,Shirts,4,test
+54142,Heels,2,test
+53897,Handbags,1,test
+43930,Heels,2,test
+30563,Sunglasses,6,test
+46562,Watches,9,test
+54511,Handbags,1,test
+11624,Kurtas,3,test
+4780,Tshirts,8,test
+25622,Watches,9,test
+20398,Handbags,1,test
+24637,Sports Shoes,5,test
+2822,Casual Shoes,0,test
+33518,Heels,2,test
+29968,Sunglasses,6,test
+14062,Tshirts,8,test
+48200,Sunglasses,6,test
+17191,Shirts,4,test
+12972,Sports Shoes,5,test
+21484,Handbags,1,test
+27281,Kurtas,3,test
+29128,Sunglasses,6,test
+32856,Heels,2,test
+12507,Casual Shoes,0,test
+32373,Watches,9,test
+21945,Handbags,1,test
+54716,Kurtas,3,test
+16846,Sunglasses,6,test
+4151,Sports Shoes,5,test
+12097,Kurtas,3,test
+9644,Shirts,4,test
+16879,Sunglasses,6,test
+28580,Watches,9,test
+23913,Casual Shoes,0,test
+39573,Heels,2,test
+28202,Sunglasses,6,test
+56989,Heels,2,test
+5000,Tops,7,test
+12065,Kurtas,3,test
+23843,Sports Shoes,5,test
+39683,Sports Shoes,5,test
+34619,Watches,9,test
+8340,Tshirts,8,test
+56961,Heels,2,test
+23500,Sports Shoes,5,test
+17553,Shirts,4,test
+50157,Heels,2,test
+54695,Kurtas,3,test
+16771,Watches,9,test
+22184,Casual Shoes,0,test
+28688,Kurtas,3,test
+10393,Watches,9,test
+46080,Sports Shoes,5,test
+22027,Kurtas,3,test
+56963,Heels,2,test
+36590,Shirts,4,test
+43161,Watches,9,test
+45838,Kurtas,3,test
+40562,Watches,9,test
+22778,Kurtas,3,test
+13521,Tops,7,test
+29019,Tshirts,8,test
+45273,Watches,9,test
+8172,Heels,2,test
+55640,Heels,2,test
+3727,Tshirts,8,test
+9539,Tshirts,8,test
+6867,Shirts,4,test
+53810,Kurtas,3,test
+44813,Tshirts,8,test
+47138,Handbags,1,test
+29963,Sunglasses,6,test
+57276,Shirts,4,test
+25542,Tops,7,test
+2056,Tshirts,8,test
+2938,Tops,7,test
+4190,Tshirts,8,test
+16424,Tshirts,8,test
+40560,Watches,9,test
+3778,Tshirts,8,test
+31913,Handbags,1,test
+46464,Watches,9,test
+28337,Sunglasses,6,test
+18559,Heels,2,test
+30647,Tshirts,8,test
+35382,Casual Shoes,0,test
+15439,Handbags,1,test
+40985,Tshirts,8,test
+57853,Heels,2,test
+40437,Kurtas,3,test
+47613,Heels,2,test
+58172,Handbags,1,test
+41673,Heels,2,test
+26044,Shirts,4,test
+29871,Sunglasses,6,test
+45261,Watches,9,test
+31955,Sports Shoes,5,test
+11816,Casual Shoes,0,test
+27193,Heels,2,test
+56321,Watches,9,test
+11701,Shirts,4,test
+46600,Heels,2,test
+14775,Shirts,4,test
+7837,Tshirts,8,test
+3285,Tshirts,8,test
+39003,Tshirts,8,test
+23196,Shirts,4,test
+48418,Tshirts,8,test
+52767,Handbags,1,test
+11468,Shirts,4,test
+20387,Handbags,1,test
+11564,Kurtas,3,test
+36952,Casual Shoes,0,test
+37480,Watches,9,test
+29291,Shirts,4,test
+36136,Sports Shoes,5,test
+23759,Sunglasses,6,test
+3926,Tshirts,8,test
+13143,Heels,2,test
+26403,Shirts,4,test
+15094,Kurtas,3,test
+45359,Heels,2,test
+41387,Tops,7,test
+17842,Casual Shoes,0,test
+28637,Sports Shoes,5,test
+16108,Sunglasses,6,test
+41726,Heels,2,test
+4563,Sports Shoes,5,test
+19587,Tops,7,test
+24084,Heels,2,test
+4042,Tshirts,8,test
+19064,Kurtas,3,test
+40373,Tops,7,test
+2047,Tshirts,8,test
+16951,Sunglasses,6,test
+24805,Sports Shoes,5,test
+4237,Tshirts,8,test
+12423,Casual Shoes,0,test
+57122,Tops,7,test
+8974,Sports Shoes,5,test
+3874,Tshirts,8,test
+8700,Sunglasses,6,test
+10105,Watches,9,test
+22734,Sports Shoes,5,test
+15342,Tshirts,8,test
+45884,Watches,9,test
+9260,Shirts,4,test
+18847,Tshirts,8,test
+11543,Kurtas,3,test
+20967,Handbags,1,test
+5326,Casual Shoes,0,test
+17157,Shirts,4,test
+3688,Sports Shoes,5,test
+48035,Watches,9,test
+28175,Sunglasses,6,test
+24299,Casual Shoes,0,test
+26561,Casual Shoes,0,test
+35670,Casual Shoes,0,test
+46015,Kurtas,3,test
+2041,Tshirts,8,test
+16810,Shirts,4,test
+41669,Heels,2,test
+9565,Shirts,4,test
+22744,Kurtas,3,test
+8648,Sunglasses,6,test
+7817,Tshirts,8,test
+18743,Tops,7,test
+4972,Shirts,4,test
+8863,Shirts,4,test
+51460,Tops,7,test
+8616,Sunglasses,6,test
+34733,Sports Shoes,5,test
+47399,Handbags,1,test
+11626,Kurtas,3,test
+5379,Sports Shoes,5,test
+46502,Watches,9,test
+9231,Shirts,4,test
+21282,Sunglasses,6,test
+47724,Handbags,1,test
+21552,Handbags,1,test
+26904,Tops,7,test
+33519,Heels,2,test
+59944,Casual Shoes,0,test
+35794,Heels,2,test
+8458,Tops,7,test
+23807,Casual Shoes,0,test
+50209,Sunglasses,6,test
+29885,Sunglasses,6,test
+40587,Kurtas,3,test
+28662,Casual Shoes,0,test
+22573,Shirts,4,test
+38164,Sunglasses,6,test
+22251,Casual Shoes,0,test
+33143,Tshirts,8,test
+25698,Tops,7,test
+20752,Heels,2,test
+23230,Kurtas,3,test
+29250,Sports Shoes,5,test
+45938,Watches,9,test
+15747,Sports Shoes,5,test
+16864,Sunglasses,6,test
+44235,Sports Shoes,5,test
+49776,Kurtas,3,test
+42245,Tops,7,test
+40395,Tops,7,test
+28448,Handbags,1,test
+48504,Tops,7,test
+6491,Casual Shoes,0,test
+30166,Watches,9,test
+39173,Kurtas,3,test
+48206,Sunglasses,6,test
+15524,Heels,2,test
+28657,Casual Shoes,0,test
+8619,Sunglasses,6,test
+43339,Sports Shoes,5,test
+10533,Sports Shoes,5,test
+5053,Sports Shoes,5,test
+11404,Shirts,4,test
+12882,Sports Shoes,5,test
+7844,Sports Shoes,5,test
+49619,Heels,2,test
+36798,Watches,9,test
+9611,Shirts,4,test
+46428,Watches,9,test
+8519,Handbags,1,test
+17659,Casual Shoes,0,test
+57529,Casual Shoes,0,test
+54136,Heels,2,test
+31271,Tshirts,8,test
+8698,Sunglasses,6,test
+15508,Casual Shoes,0,test
+25410,Sports Shoes,5,test
+40181,Sunglasses,6,test
+56713,Kurtas,3,test
+4371,Tshirts,8,test
+40993,Tops,7,test
+49381,Casual Shoes,0,test
+29884,Sunglasses,6,test
+29277,Shirts,4,test
+47418,Handbags,1,test
+4700,Watches,9,test
+49518,Handbags,1,test
+5579,Sports Shoes,5,test
+10792,Shirts,4,test
+48208,Sunglasses,6,test
+23774,Sunglasses,6,test
+45845,Kurtas,3,test
+18593,Sports Shoes,5,test
+42859,Handbags,1,test
+44494,Casual Shoes,0,test
+15314,Sports Shoes,5,test
+34637,Sports Shoes,5,test
+3949,Tops,7,test
+22001,Handbags,1,test
+45363,Heels,2,test
+39619,Heels,2,test
+42845,Handbags,1,test
+37319,Watches,9,test
+50355,Kurtas,3,test
+24625,Handbags,1,test
+48175,Handbags,1,test
+54586,Kurtas,3,test
+35683,Casual Shoes,0,test
+20319,Shirts,4,test
+47692,Handbags,1,test
+47377,Handbags,1,test
+25457,Sports Shoes,5,test
+26361,Tops,7,test
+22246,Casual Shoes,0,test
+21346,Sunglasses,6,test
+40559,Watches,9,test
+47128,Handbags,1,test
+58694,Kurtas,3,test
+21314,Sunglasses,6,test
+48104,Tops,7,test
+54489,Handbags,1,test
+53874,Sports Shoes,5,test
+11828,Casual Shoes,0,test
+54656,Watches,9,test
+33124,Heels,2,test
+5492,Tshirts,8,test
+29961,Sunglasses,6,test
+19310,Sports Shoes,5,test
+41433,Sports Shoes,5,test
+9064,Shirts,4,test
+9442,Handbags,1,test
+48329,Handbags,1,test
+51706,Sunglasses,6,test
+29497,Watches,9,test
+42137,Sports Shoes,5,test
+16854,Sunglasses,6,test
+36038,Handbags,1,test
+18245,Tshirts,8,test
+12847,Tshirts,8,test
+11579,Kurtas,3,test
+51404,Shirts,4,test
+45942,Tops,7,test
+28715,Kurtas,3,test
+50165,Heels,2,test
+29300,Tshirts,8,test
+29447,Watches,9,test
+58538,Sunglasses,6,test

@@ -1,0 +1,4 @@
+Model,Parameter_M,Ukuran_file_MB,Puncak_RAM_CPU_MB,Puncak_memori_GPU_MB
+MobileNetV3-Small,1.53,6.25,0.0,25.85
+EfficientNet-B0,4.02,16.38,0.0,42.35
+ShuffleNetV2,1.26,5.23,4.53,24.95
